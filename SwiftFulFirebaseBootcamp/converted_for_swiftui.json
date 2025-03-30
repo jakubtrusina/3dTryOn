@@ -1,0 +1,5251 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "TOP NY ZAFFIRO - horní díl",
+      "description": "TOP NY ZAFFIRO - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/118-4_top-ny-zaffiro-horni-dil.jpg?62b429e8",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/118-7_top-ny-zaffiro-horni-dil.jpg?62b429e8",
+        "https://www.terezietrusinova.com/user/shop/orig/118-6_top-ny-zaffiro-horni-dil.jpg?62b429e8",
+        "https://www.terezietrusinova.com/user/shop/orig/118-1_top-ny-zaffiro-horni-dil.jpg?631b6c12",
+        "https://www.terezietrusinova.com/user/shop/orig/118-4_top-ny-zaffiro-horni-dil.jpg?62b429e8",
+        "https://www.terezietrusinova.com/user/shop/orig/118_top-ny-zaffiro-horni-dil.jpg?640391f1"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "TOP NY BLUE REBEL - horní díl",
+      "description": "TOP NY BLUE REBEL - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/121-4_top-ny-blue-rebel-horni-dil.jpg?62b429e8",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/121-7_top-ny-blue-rebel-horni-dil.jpg?62b429e8",
+        "https://www.terezietrusinova.com/user/shop/orig/121-6_top-ny-blue-rebel-horni-dil.jpg?62b429e8",
+        "https://www.terezietrusinova.com/user/shop/orig/121_top-ny-blue-rebel-horni-dil.jpg?631b5bee",
+        "https://www.terezietrusinova.com/user/shop/orig/121-4_top-ny-blue-rebel-horni-dil.jpg?62b429e8"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "TOP NY INFLUENCER - horní díl",
+      "description": "TOP NY INFLUENCER - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/124-3_top-ny-influencer-horni-dil.jpg?62b429e8",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/124-5_top-ny-influencer-horni-dil.jpg?62b429e9",
+        "https://www.terezietrusinova.com/user/shop/orig/124-1_top-ny-influencer-horni-dil.jpg?631bd309",
+        "https://www.terezietrusinova.com/user/shop/orig/124-3_top-ny-influencer-horni-dil.jpg?62b429e8"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "KALHOTKY NY ZAFFIRO - spodní díl",
+      "description": "BOTTOM NY ZAFFIRO - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/127-4_kalhotky-ny-zaffiro-spodni-dil.jpg?62b429e9",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/127-7_kalhotky-ny-zaffiro-spodni-dil.jpg?62b429e9",
+        "https://www.terezietrusinova.com/user/shop/orig/127-4_kalhotky-ny-zaffiro-spodni-dil.jpg?62b429e9",
+        "https://www.terezietrusinova.com/user/shop/orig/127-6_kalhotky-ny-zaffiro-spodni-dil.jpg?62b429e9",
+        "https://www.terezietrusinova.com/user/shop/orig/127_kalhotky-ny-zaffiro-spodni-dil.jpg?631fd008"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "KALHOTKY NY BLUE REBEL - spodní díl",
+      "description": "BOTTOM NY BLUE REBEL - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -8,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/130-4_kalhotky-ny-blue-rebel-spodni-dil.jpg?62b429e9",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/130-7_kalhotky-ny-blue-rebel-spodni-dil.jpg?62b429ea",
+        "https://www.terezietrusinova.com/user/shop/orig/130-6_kalhotky-ny-blue-rebel-spodni-dil.jpg?62b429e9",
+        "https://www.terezietrusinova.com/user/shop/orig/130-1_kalhotky-ny-blue-rebel-spodni-dil.jpg?6328a07f",
+        "https://www.terezietrusinova.com/user/shop/orig/130-4_kalhotky-ny-blue-rebel-spodni-dil.jpg?62b429e9"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "BOTTOM NY INFLUENCER - spodní díl",
+      "description": "metaDescription",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/133-3_bottom-ny-influencer-spodni-dil.jpg?62b429ea",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/133-4_bottom-ny-influencer-spodni-dil.jpg?62b429ea",
+        "https://www.terezietrusinova.com/user/shop/orig/133_bottom-ny-influencer-spodni-dil.jpg?63289ce9",
+        "https://www.terezietrusinova.com/user/shop/orig/133-3_bottom-ny-influencer-spodni-dil.jpg?62b429ea"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "TOP PARIS ZAFFIRO - horní díl",
+      "description": "TOP PARIS ZAFFIRO - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/136-1_top-paris-zaffiro-horni-dil.jpg?62b429ea",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/136-3_top-paris-zaffiro-horni-dil.jpg?6310d55e",
+        "https://www.terezietrusinova.com/user/shop/orig/136_top-paris-zaffiro-horni-dil.jpg?6310d553",
+        "https://www.terezietrusinova.com/user/shop/orig/136-4_top-paris-zaffiro-horni-dil.jpg?631bd175",
+        "https://www.terezietrusinova.com/user/shop/orig/136-1_top-paris-zaffiro-horni-dil.jpg?62b429ea",
+        "https://www.terezietrusinova.com/user/shop/orig/136-5_top-paris-zaffiro-horni-dil.jpg?631b69e3"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "TOP PARIS BLUE REBEL - horní díl",
+      "description": "TOP PARIS BLUE REBEL - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -5,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/142-1_top-paris-blue-rebel-horni-dil.jpg?62b429eb",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/142-4_top-paris-blue-rebel-horni-dil.jpg?646dced2",
+        "https://www.terezietrusinova.com/user/shop/orig/142-3_top-paris-blue-rebel-horni-dil.jpg?6310d613",
+        "https://www.terezietrusinova.com/user/shop/orig/142-6_top-paris-blue-rebel-horni-dil.jpg?631bd27b",
+        "https://www.terezietrusinova.com/user/shop/orig/142-1_top-paris-blue-rebel-horni-dil.jpg?62b429eb",
+        "https://www.terezietrusinova.com/user/shop/orig/142-5_top-paris-blue-rebel-horni-dil.jpg?631b6e7b",
+        "https://www.terezietrusinova.com/user/shop/orig/142_top-paris-blue-rebel-horni-dil.jpg?64039283"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "TOP PARIS COSMOPOLITAN - horní díl",
+      "description": "TOP PARIS COSMOPOLITAN - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/145-4_top-paris-cosmopolitan-horni-dil.jpg?62b429eb",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/145-7_top-paris-cosmopolitan-horni-dil.jpg?62b429eb",
+        "https://www.terezietrusinova.com/user/shop/orig/145-6_top-paris-cosmopolitan-horni-dil.jpg?62b429eb",
+        "https://www.terezietrusinova.com/user/shop/orig/145_top-paris-cosmopolitan-horni-dil.jpg?631b5aa8",
+        "https://www.terezietrusinova.com/user/shop/orig/145-4_top-paris-cosmopolitan-horni-dil.jpg?62b429eb",
+        "https://www.terezietrusinova.com/user/shop/orig/145-1_top-paris-cosmopolitan-horni-dil.jpg?63d67c9b",
+        "https://www.terezietrusinova.com/user/shop/orig/145-3_top-paris-cosmopolitan-horni-dil.jpg?63d67c9c",
+        "https://www.terezietrusinova.com/user/shop/orig/145-2_top-paris-cosmopolitan-horni-dil.jpg?63d67c9b",
+        "https://www.terezietrusinova.com/user/shop/orig/145-8_top-paris-cosmopolitan-horni-dil.jpg?63d67c9e",
+        "https://www.terezietrusinova.com/user/shop/orig/145-9_top-paris-cosmopolitan-horni-dil.jpg?63d67c9f"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "BOTTOM PARIS BOYSCOUT - spodní díl",
+      "description": "BOTTOM PARIS BOYSCOUT - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/151-4_bottom-paris-boyscout-spodni-dil.jpg?62b429ec",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/151-7_bottom-paris-boyscout-spodni-dil.jpg?62b429ec",
+        "https://www.terezietrusinova.com/user/shop/orig/151-6_bottom-paris-boyscout-spodni-dil.jpg?62b429ec",
+        "https://www.terezietrusinova.com/user/shop/orig/151_bottom-paris-boyscout-spodni-dil.jpg?631b58d4",
+        "https://www.terezietrusinova.com/user/shop/orig/151-4_bottom-paris-boyscout-spodni-dil.jpg?62b429ec"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "KALHOTKY PARIS ZAFFIRO - spodní díl",
+      "description": "BOTTOM PARIS ZAFFIRO - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/154-1_kalhotky-paris-zaffiro-spodni-dil.jpg?62b429ec",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/154-4_kalhotky-paris-zaffiro-spodni-dil.jpg?6310d48e",
+        "https://www.terezietrusinova.com/user/shop/orig/154-2_kalhotky-paris-zaffiro-spodni-dil.jpg?631bcea4",
+        "https://www.terezietrusinova.com/user/shop/orig/154-1_kalhotky-paris-zaffiro-spodni-dil.jpg?62b429ec"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "KALHOTKY PARIS BLUE REBEL - spodní díl",
+      "description": "BOTTOM PARIS BLUE REBEL - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/157-3_kalhotky-paris-blue-rebel-spodni-dil.jpg?62b429ec",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/157-5_kalhotky-paris-blue-rebel-spodni-dil.jpg?62b429ec",
+        "https://www.terezietrusinova.com/user/shop/orig/157_kalhotky-paris-blue-rebel-spodni-dil.jpg?631b58fe",
+        "https://www.terezietrusinova.com/user/shop/orig/157-3_kalhotky-paris-blue-rebel-spodni-dil.jpg?62b429ec"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "BOTTOM PARIS COSMOPOLITAN - spodní díl",
+      "description": "BOTTOM PARIS COSMOPOLITAN - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/160-4_bottom-paris-cosmopolitan-spodni-dil.jpg?62b429ec",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/160-7_bottom-paris-cosmopolitan-spodni-dil.jpg?62b429ed",
+        "https://www.terezietrusinova.com/user/shop/orig/160-1_bottom-paris-cosmopolitan-spodni-dil.jpg?631bcf75",
+        "https://www.terezietrusinova.com/user/shop/orig/160-4_bottom-paris-cosmopolitan-spodni-dil.jpg?62b429ec"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "KALHOTKY PARIS INFLUENCER - spodní díl",
+      "description": "BOTTOM PARIS INFLUENCER - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/163-1_kalhotky-paris-influencer-spodni-dil.jpg?62b429ed",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/163-4_kalhotky-paris-influencer-spodni-dil.jpg?6329490e",
+        "https://www.terezietrusinova.com/user/shop/orig/163-2_kalhotky-paris-influencer-spodni-dil.jpg?631fcfca",
+        "https://www.terezietrusinova.com/user/shop/orig/163-1_kalhotky-paris-influencer-spodni-dil.jpg?62b429ed",
+        "https://www.terezietrusinova.com/user/shop/orig/163_kalhotky-paris-influencer-spodni-dil.jpg?631fcf7f",
+        "https://www.terezietrusinova.com/user/shop/orig/163-3_kalhotky-paris-influencer-spodni-dil.jpg?631fcfda"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "TOP CAPRI ZAFFIRO - horní díl",
+      "description": "TOP CAPRI ZAFFIRO - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/166-1_top-capri-zaffiro-horni-dil.jpg?62b429ed",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/166-7_top-capri-zaffiro-horni-dil.jpg?63d681be",
+        "https://www.terezietrusinova.com/user/shop/orig/166-5_top-capri-zaffiro-horni-dil.jpg?631bd3a1",
+        "https://www.terezietrusinova.com/user/shop/orig/166-1_top-capri-zaffiro-horni-dil.jpg?62b429ed",
+        "https://www.terezietrusinova.com/user/shop/orig/166-3_top-capri-zaffiro-horni-dil.jpg?631b5c3e",
+        "https://www.terezietrusinova.com/user/shop/orig/166-8_top-capri-zaffiro-horni-dil.jpg?63d681bf"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "TOP CAPRI BOYSCOUT - horní díl",
+      "description": "TOP CAPRI BOYSCOUT - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/169-3_top-capri-boyscout-horni-dil.jpg?62b429ed",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/169-2_top-capri-boyscout-horni-dil.jpg?63d67c2a",
+        "https://www.terezietrusinova.com/user/shop/orig/169-8_top-capri-boyscout-horni-dil.jpg?63d67c2d",
+        "https://www.terezietrusinova.com/user/shop/orig/169-4_top-capri-boyscout-horni-dil.jpg?62b429ed",
+        "https://www.terezietrusinova.com/user/shop/orig/169-1_top-capri-boyscout-horni-dil.jpg?631bd471",
+        "https://www.terezietrusinova.com/user/shop/orig/169-3_top-capri-boyscout-horni-dil.jpg?62b429ed",
+        "https://www.terezietrusinova.com/user/shop/orig/169-5_top-capri-boyscout-horni-dil.jpg?62b429ee",
+        "https://www.terezietrusinova.com/user/shop/orig/169-7_top-capri-boyscout-horni-dil.jpg?63d67c2d",
+        "https://www.terezietrusinova.com/user/shop/orig/169_top-capri-boyscout-horni-dil.jpg?63d67c28"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "TOP CAPRI BLUE REBEL - horní díl",
+      "description": "TOP CAPRI BLUE REBEL - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/172-1_top-capri-blue-rebel-horni-dil.jpg?62b429ee",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/172-8_top-capri-blue-rebel-horni-dil.jpg?65bcf4b0",
+        "https://www.terezietrusinova.com/user/shop/orig/172-6_top-capri-blue-rebel-horni-dil.jpg?63d67bbd",
+        "https://www.terezietrusinova.com/user/shop/orig/172-5_top-capri-blue-rebel-horni-dil.jpg?63d67bbc",
+        "https://www.terezietrusinova.com/user/shop/orig/172-1_top-capri-blue-rebel-horni-dil.jpg?62b429ee",
+        "https://www.terezietrusinova.com/user/shop/orig/172_top-capri-blue-rebel-horni-dil.jpg?640393c2",
+        "https://www.terezietrusinova.com/user/shop/orig/172-2_top-capri-blue-rebel-horni-dil.jpg?640393f7",
+        "https://www.terezietrusinova.com/user/shop/orig/172-10_top-capri-blue-rebel-horni-dil.jpg?65a128af",
+        "https://www.terezietrusinova.com/user/shop/orig/172-7_top-capri-blue-rebel-horni-dil.jpg?65a12891",
+        "https://www.terezietrusinova.com/user/shop/orig/172-9_top-capri-blue-rebel-horni-dil.jpg?65a128ad",
+        "https://www.terezietrusinova.com/user/shop/orig/172-3_top-capri-blue-rebel-horni-dil.jpg?646dbe61"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "TOP CAPRI COSMOPOLITAN - horní díl",
+      "description": "TOP CAPRI COSMOPOLITAN - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/175-3_top-capri-cosmopolitan-horni-dil.jpg?62b429ee",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/175_top-capri-cosmopolitan-horni-dil.jpg?63d681f0",
+        "https://www.terezietrusinova.com/user/shop/orig/175-3_top-capri-cosmopolitan-horni-dil.jpg?62b429ee",
+        "https://www.terezietrusinova.com/user/shop/orig/175-2_top-capri-cosmopolitan-horni-dil.jpg?631b6de4",
+        "https://www.terezietrusinova.com/user/shop/orig/175-1_top-capri-cosmopolitan-horni-dil.jpg?631b6d18",
+        "https://www.terezietrusinova.com/user/shop/orig/175-7_top-capri-cosmopolitan-horni-dil.jpg?63d681f2",
+        "https://www.terezietrusinova.com/user/shop/orig/175-8_top-capri-cosmopolitan-horni-dil.jpg?63d681f3"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "TOP CAPRI INFLUENCER - horní díl",
+      "description": "TOP CAPRI INFLUENCER - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/178-3_top-capri-influencer-horni-dil.jpg?62b429ee",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/178-5_top-capri-influencer-horni-dil.jpg?62b429ef",
+        "https://www.terezietrusinova.com/user/shop/orig/178-1_top-capri-influencer-horni-dil.jpg?631b8722",
+        "https://www.terezietrusinova.com/user/shop/orig/178-3_top-capri-influencer-horni-dil.jpg?62b429ee"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "BOTTOM CAPRI BOYSCOUT - spodní díl",
+      "description": "BOTTOM CAPRI BOYSCOUT - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/181-3_bottom-capri-boyscout-spodni-dil.jpg?62b429ef",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/181-5_bottom-capri-boyscout-spodni-dil.jpg?62b429ef",
+        "https://www.terezietrusinova.com/user/shop/orig/181-3_bottom-capri-boyscout-spodni-dil.jpg?62b429ef",
+        "https://www.terezietrusinova.com/user/shop/orig/181-1_bottom-capri-boyscout-spodni-dil.jpg?631bcbc2"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "KALHOTKY CAPRI ZAFFIRO - spodní díl",
+      "description": "BOTTOM CAPRI ZAFFIRO - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/184-1_kalhotky-capri-zaffiro-spodni-dil.jpg?62b429ef",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/184-6_kalhotky-capri-zaffiro-spodni-dil.jpg?63debf9a",
+        "https://www.terezietrusinova.com/user/shop/orig/184-1_kalhotky-capri-zaffiro-spodni-dil.jpg?62b429ef",
+        "https://www.terezietrusinova.com/user/shop/orig/184-3_kalhotky-capri-zaffiro-spodni-dil.jpg?63debf76",
+        "https://www.terezietrusinova.com/user/shop/orig/184-4_kalhotky-capri-zaffiro-spodni-dil.jpg?631bccfc"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "KALHOTKY CAPRI BLUE REBEL - spodní díl",
+      "description": "BOTTOM CAPRI BLUE REBEL - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/187-1_kalhotky-capri-blue-rebel-spodni-dil.jpg?62b429ef",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/187-4_kalhotky-capri-blue-rebel-spodni-dil.jpg?63dfcdc8",
+        "https://www.terezietrusinova.com/user/shop/orig/187-1_kalhotky-capri-blue-rebel-spodni-dil.jpg?62b429ef",
+        "https://www.terezietrusinova.com/user/shop/orig/187-7_kalhotky-capri-blue-rebel-spodni-dil.jpg?63dfcded",
+        "https://www.terezietrusinova.com/user/shop/orig/187-5_kalhotky-capri-blue-rebel-spodni-dil.jpg?63dfcdd2",
+        "https://www.terezietrusinova.com/user/shop/orig/187-3_kalhotky-capri-blue-rebel-spodni-dil.jpg?631bcb33",
+        "https://www.terezietrusinova.com/user/shop/orig/187_kalhotky-capri-blue-rebel-spodni-dil.jpg?640393d9",
+        "https://www.terezietrusinova.com/user/shop/orig/187-2_kalhotky-capri-blue-rebel-spodni-dil.jpg?64039422"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "KALHOTKY CAPRI COSMOPOLITAN - spodní díl",
+      "description": "BOTTOM CAPRI COSMOPOLITAN - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/190-3_kalhotky-capri-cosmopolitan-spodni-dil.jpg?62b429ef",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/190-6_kalhotky-capri-cosmopolitan-spodni-dil.jpg?63e12588",
+        "https://www.terezietrusinova.com/user/shop/orig/190-3_kalhotky-capri-cosmopolitan-spodni-dil.jpg?62b429ef",
+        "https://www.terezietrusinova.com/user/shop/orig/190-7_kalhotky-capri-cosmopolitan-spodni-dil.jpg?63e1259b",
+        "https://www.terezietrusinova.com/user/shop/orig/190-2_kalhotky-capri-cosmopolitan-spodni-dil.jpg?63e12566",
+        "https://www.terezietrusinova.com/user/shop/orig/190-1_kalhotky-capri-cosmopolitan-spodni-dil.jpg?631bcc52"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "KALHOTKY CAPRI INFLUENCER - spodní díl",
+      "description": "BOTTOM CAPRI INFLUENCER - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/193-3_kalhotky-capri-influencer-spodni-dil.jpg?62b429f0",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/193-5_kalhotky-capri-influencer-spodni-dil.jpg?62b429f0",
+        "https://www.terezietrusinova.com/user/shop/orig/193-3_kalhotky-capri-influencer-spodni-dil.jpg?62b429f0",
+        "https://www.terezietrusinova.com/user/shop/orig/193-1_kalhotky-capri-influencer-spodni-dil.jpg?631bccaf"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "JEDNODÍLNÉ PLAVKY BARCELONA BLACK",
+      "description": "ONE PIECES BARCELONA BLACK – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > JEDNODÍLNÉ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/211-6_jednodilne-plavky-barcelona-black.jpg?63d68465",
+        "https://www.terezietrusinova.com/user/shop/orig/211-3_jednodilne-plavky-barcelona-black.jpg?62b429f1",
+        "https://www.terezietrusinova.com/user/shop/orig/211-7_jednodilne-plavky-barcelona-black.jpg?63d68466",
+        "https://www.terezietrusinova.com/user/shop/orig/211_jednodilne-plavky-barcelona-black.jpg?631b8a3b",
+        "https://www.terezietrusinova.com/user/shop/orig/211-1_jednodilne-plavky-barcelona-black.jpg?631b89a2"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "TOP ROMA JEWEL - horní díl",
+      "description": "TOP ROMA JEWEL - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/271-3_top-roma-jewel-horni-dil.jpg?63d678d8",
+        "https://www.terezietrusinova.com/user/shop/orig/271-2_top-roma-jewel-horni-dil.jpg?63d678d3",
+        "https://www.terezietrusinova.com/user/shop/orig/271-1_top-roma-jewel-horni-dil.jpg?63d678cd",
+        "https://www.terezietrusinova.com/user/shop/orig/271-4_top-roma-jewel-horni-dil.jpg?640392ca"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "TOP ROMA BLACK - horní díl",
+      "description": "TOP ROMA BLACK - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/277_top-roma-black-horni-dil.png?65da30cc",
+        "https://www.terezietrusinova.com/user/shop/orig/277_top-roma-black-horni-dil.jpg?63d679ea",
+        "https://www.terezietrusinova.com/user/shop/orig/277-2_top-roma-black-horni-dil.jpg?63d679ec"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "TOP VERONA BLOGGER - horní díl",
+      "description": "TOP VERONA BLOGGER - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/280-5_top-verona-blogger-horni-dil.jpg?65bcffa2",
+        "https://www.terezietrusinova.com/user/shop/orig/280-2_top-verona-blogger-horni-dil.jpg?63d67a67",
+        "https://www.terezietrusinova.com/user/shop/orig/280-3_top-verona-blogger-horni-dil.jpg?63d67a67",
+        "https://www.terezietrusinova.com/user/shop/orig/280-4_top-verona-blogger-horni-dil.jpg?640395bc"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "TOP TRINIDAD JEWEL - horní díl",
+      "description": "metaDescription",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/283-4_top-trinidad-jewel-horni-dil.jpg?63d67aaf",
+        "https://www.terezietrusinova.com/user/shop/orig/283_top-trinidad-jewel-horni-dil.jpg?63d67aab",
+        "https://www.terezietrusinova.com/user/shop/orig/283-1_top-trinidad-jewel-horni-dil.jpg?63d67aad",
+        "https://www.terezietrusinova.com/user/shop/orig/283-3_top-trinidad-jewel-horni-dil.jpg?63d67aae",
+        "https://www.terezietrusinova.com/user/shop/orig/283-5_top-trinidad-jewel-horni-dil.jpg?6403925b",
+        "https://www.terezietrusinova.com/user/shop/orig/283-6_top-trinidad-jewel-horni-dil.jpg?640398b4"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "TOP PARIS BLOGGER- horní díl",
+      "description": "TOP PARIS BLOGGER- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/286_top-paris-blogger-horni-dil.jpg?646dce9e",
+        "https://www.terezietrusinova.com/user/shop/orig/286-5_top-paris-blogger-horni-dil.jpg?63d67d2c",
+        "https://www.terezietrusinova.com/user/shop/orig/286-1_top-paris-blogger-horni-dil.jpg?63d67d28",
+        "https://www.terezietrusinova.com/user/shop/orig/286-4_top-paris-blogger-horni-dil.jpg?63d67d2b",
+        "https://www.terezietrusinova.com/user/shop/orig/286-2_top-paris-blogger-horni-dil.jpg?63d67d2a",
+        "https://www.terezietrusinova.com/user/shop/orig/286-3_top-paris-blogger-horni-dil.jpg?63d67d2b",
+        "https://www.terezietrusinova.com/user/shop/orig/286-6_top-paris-blogger-horni-dil.jpg?64039100"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "TOP ROMA BLOGGER- horní díl",
+      "description": "TOP ROMA BLOGGER- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/289-5_top-roma-blogger-horni-dil.jpg?65bcfeab",
+        "https://www.terezietrusinova.com/user/shop/orig/289-3_top-roma-blogger-horni-dil.jpg?63d67da3",
+        "https://www.terezietrusinova.com/user/shop/orig/289-4_top-roma-blogger-horni-dil.jpg?63d67da4",
+        "https://www.terezietrusinova.com/user/shop/orig/289-1_top-roma-blogger-horni-dil.jpg?6403906b"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "TOP NY BLOGGER- horní díl",
+      "description": "TOP NY BLOGGER- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/292-6_top-ny-blogger-horni-dil.jpg?65bd0e84",
+        "https://www.terezietrusinova.com/user/shop/orig/292-5_top-ny-blogger-horni-dil.jpg?63d685dd",
+        "https://www.terezietrusinova.com/user/shop/orig/292-4_top-ny-blogger-horni-dil.jpg?63d67e31",
+        "https://www.terezietrusinova.com/user/shop/orig/292-2_top-ny-blogger-horni-dil.jpg?64039098",
+        "https://www.terezietrusinova.com/user/shop/orig/292-1_top-ny-blogger-horni-dil.jpg?63d67e2f"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "TOP ROMA ZAFFIRO- horní díl",
+      "description": "TOP ROMA ZAFFIRO- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/295-4_top-roma-zaffiro-horni-dil.jpg?63d68604",
+        "https://www.terezietrusinova.com/user/shop/orig/295-1_top-roma-zaffiro-horni-dil.jpg?63d67e92",
+        "https://www.terezietrusinova.com/user/shop/orig/295-3_top-roma-zaffiro-horni-dil.jpg?63d67e93",
+        "https://www.terezietrusinova.com/user/shop/orig/295-2_top-roma-zaffiro-horni-dil.jpg?640395e5"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "TOP LYON BLACK- horní díl",
+      "description": "TOP LYON BLACK- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -6,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/298-2_top-lyon-black-horni-dil.jpg?63d68692",
+        "https://www.terezietrusinova.com/user/shop/orig/298-1_top-lyon-black-horni-dil.jpg?63d67f3b",
+        "https://www.terezietrusinova.com/user/shop/orig/298-3_top-lyon-black-horni-dil.jpg?63d67f3d",
+        "https://www.terezietrusinova.com/user/shop/orig/298-4_top-lyon-black-horni-dil.jpg?64178a0f",
+        "https://www.terezietrusinova.com/user/shop/orig/298-5_top-lyon-black-horni-dil.jpg?64178a33"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "TOP LYON BLOGGER- horní díl",
+      "description": "TOP LYON BLOGGER- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/301-5_top-lyon-blogger-horni-dil.jpg?65bcff2a",
+        "https://www.terezietrusinova.com/user/shop/orig/301-2_top-lyon-blogger-horni-dil.jpg?63d67f8c",
+        "https://www.terezietrusinova.com/user/shop/orig/301-3_top-lyon-blogger-horni-dil.jpg?63d67f8d",
+        "https://www.terezietrusinova.com/user/shop/orig/301-1_top-lyon-blogger-horni-dil.jpg?63d67f8b"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "TOP TRINIDAD BLACK- horní díl",
+      "description": "TOP TRINIDAD BLACK- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/304_top-trinidad-black-horni-dil.jpg?646ddaee",
+        "https://www.terezietrusinova.com/user/shop/orig/304-1_top-trinidad-black-horni-dil.jpg?63d67fe4",
+        "https://www.terezietrusinova.com/user/shop/orig/304-3_top-trinidad-black-horni-dil.jpg?63d67fe7",
+        "https://www.terezietrusinova.com/user/shop/orig/304-5_top-trinidad-black-horni-dil.jpg?63d67fe8"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "TOP TRINIDAD BLOGGER- horní díl",
+      "description": "TOP TRINIDAD BLOGGER- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/307-1_top-trinidad-blogger-horni-dil.jpg?646ddc3e",
+        "https://www.terezietrusinova.com/user/shop/orig/307-4_top-trinidad-blogger-horni-dil.jpg?63d6802d",
+        "https://www.terezietrusinova.com/user/shop/orig/307_top-trinidad-blogger-horni-dil.jpg?63d68029",
+        "https://www.terezietrusinova.com/user/shop/orig/307-3_top-trinidad-blogger-horni-dil.jpg?63d6802b",
+        "https://www.terezietrusinova.com/user/shop/orig/307-2_top-trinidad-blogger-horni-dil.jpg?63d6802a",
+        "https://www.terezietrusinova.com/user/shop/orig/307-5_top-trinidad-blogger-horni-dil.jpg?64039178"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "TOP PARIS BLACK- horní díl",
+      "description": "TOP PARIS BLACK- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -5,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/310_top-paris-black-horni-dil.jpg?646dce6e",
+        "https://www.terezietrusinova.com/user/shop/orig/310-3_top-paris-black-horni-dil.jpg?63d680d8",
+        "https://www.terezietrusinova.com/user/shop/orig/310-1_top-paris-black-horni-dil.jpg?63d680d5",
+        "https://www.terezietrusinova.com/user/shop/orig/310-2_top-paris-black-horni-dil.jpg?63d680d6",
+        "https://www.terezietrusinova.com/user/shop/orig/310-4_top-paris-black-horni-dil.jpg?63d680d8",
+        "https://www.terezietrusinova.com/user/shop/orig/310-5_top-paris-black-horni-dil.jpg?63e12184",
+        "https://www.terezietrusinova.com/user/shop/orig/310-6_top-paris-black-horni-dil.jpg?64039350"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "TOP TRINIDAD ALIEN- horní díl",
+      "description": "metaDescription",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/313-3_top-trinidad-alien-horni-dil.jpg?63d68132",
+        "https://www.terezietrusinova.com/user/shop/orig/313_top-trinidad-alien-horni-dil.jpg?63d6812e",
+        "https://www.terezietrusinova.com/user/shop/orig/313-2_top-trinidad-alien-horni-dil.jpg?63d68131",
+        "https://www.terezietrusinova.com/user/shop/orig/313-4_top-trinidad-alien-horni-dil.jpg?63d68133",
+        "https://www.terezietrusinova.com/user/shop/orig/313-5_top-trinidad-alien-horni-dil.jpg?63e12235",
+        "https://www.terezietrusinova.com/user/shop/orig/313-6_top-trinidad-alien-horni-dil.jpg?640394b0",
+        "https://www.terezietrusinova.com/user/shop/orig/313-7_top-trinidad-alien-horni-dil.jpg?640394d2"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "TOP VERONA BLACK- horní díl",
+      "description": "TOP VERONA BLACK- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/316_top-verona-black-horni-dil.png?65da317f",
+        "https://www.terezietrusinova.com/user/shop/orig/316-3_top-verona-black-horni-dil.jpg?63d68179",
+        "https://www.terezietrusinova.com/user/shop/orig/316-2_top-verona-black-horni-dil.jpg?63d68178",
+        "https://www.terezietrusinova.com/user/shop/orig/316-4_top-verona-black-horni-dil.jpg?63d68179"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "ONE PIECES BARCELONA JEWEL",
+      "description": "ONE PIECES BARCELONA JEWEL – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > JEDNODÍLNÉ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/319-1_one-pieces-barcelona-jewel.jpg?63d6829b",
+        "https://www.terezietrusinova.com/user/shop/orig/319-4_one-pieces-barcelona-jewel.jpg?63d6829f",
+        "https://www.terezietrusinova.com/user/shop/orig/319-2_one-pieces-barcelona-jewel.jpg?63d6829b"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "JEDNODÍLNÉ PLAVKY PRAGUE BLOGGER",
+      "description": "ONE PIECES PRAGUE BLOGGER – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > JEDNODÍLNÉ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/322-6_jednodilne-plavky-prague-blogger.jpg?65bcfe86",
+        "https://www.terezietrusinova.com/user/shop/orig/322-3_jednodilne-plavky-prague-blogger.jpg?63d682f8",
+        "https://www.terezietrusinova.com/user/shop/orig/322_jednodilne-plavky-prague-blogger.jpg?63d682f4",
+        "https://www.terezietrusinova.com/user/shop/orig/322-4_jednodilne-plavky-prague-blogger.jpg?63d689c6",
+        "https://www.terezietrusinova.com/user/shop/orig/322-5_jednodilne-plavky-prague-blogger.jpg?64039624"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "JEDNODÍLNÉ PLAVKY PRAGUE BLACK",
+      "description": "ONE PIECES PRAGUE BLACK – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > JEDNODÍLNÉ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/325_jednodilne-plavky-prague-black.png?65da3098",
+        "https://www.terezietrusinova.com/user/shop/orig/325_jednodilne-plavky-prague-black.jpg?63d6835a",
+        "https://www.terezietrusinova.com/user/shop/orig/325-1_jednodilne-plavky-prague-black.jpg?63d6835c",
+        "https://www.terezietrusinova.com/user/shop/orig/325-2_jednodilne-plavky-prague-black.jpg?63d6835c",
+        "https://www.terezietrusinova.com/user/shop/orig/325-5_jednodilne-plavky-prague-black.jpg?63d68a2e"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "ONE PIECES PRAGUE ZAFFIRO",
+      "description": "metaDescription",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > JEDNODÍLNÉ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/328-1_one-pieces-prague-zaffiro.jpg?63d687cb",
+        "https://www.terezietrusinova.com/user/shop/orig/328_one-pieces-prague-zaffiro.jpg?63d683d6",
+        "https://www.terezietrusinova.com/user/shop/orig/328-2_one-pieces-prague-zaffiro.jpg?63d689f1",
+        "https://www.terezietrusinova.com/user/shop/orig/328-4_one-pieces-prague-zaffiro.jpg?63dea8c8",
+        "https://www.terezietrusinova.com/user/shop/orig/328-5_one-pieces-prague-zaffiro.jpg?6403946b"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "JEDNODÍLNÉ PLAVKY CHICAGO BLOGGER",
+      "description": "ONE PIECES CHICAGO BLOGGER – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > JEDNODÍLNÉ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/331-8_jednodilne-plavky-chicago-blogger.jpg?65bcfec5",
+        "https://www.terezietrusinova.com/user/shop/orig/331-3_jednodilne-plavky-chicago-blogger.jpg?63d684a8",
+        "https://www.terezietrusinova.com/user/shop/orig/331-4_jednodilne-plavky-chicago-blogger.jpg?63d684a9",
+        "https://www.terezietrusinova.com/user/shop/orig/331-5_jednodilne-plavky-chicago-blogger.jpg?63d68999",
+        "https://www.terezietrusinova.com/user/shop/orig/331-6_jednodilne-plavky-chicago-blogger.jpg?6403954b",
+        "https://www.terezietrusinova.com/user/shop/orig/331-7_jednodilne-plavky-chicago-blogger.jpg?6403956c",
+        "https://www.terezietrusinova.com/user/shop/orig/331-1_jednodilne-plavky-chicago-blogger.jpg?63d684a6"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "ONE PIECES CHICAGO ALIEN",
+      "description": "ONE PIECES CHICAGO ALIEN – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/334-1_one-pieces-chicago-alien.jpg?63d684db",
+        "https://www.terezietrusinova.com/user/shop/orig/334-4_one-pieces-chicago-alien.jpg?63dea9ac",
+        "https://www.terezietrusinova.com/user/shop/orig/334-2_one-pieces-chicago-alien.jpg?63d684dc",
+        "https://www.terezietrusinova.com/user/shop/orig/334-3_one-pieces-chicago-alien.jpg?63d684dc"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "JEDNODÍLNÉ PLAVKY CHICAGO BLACK",
+      "description": "ONE PIECES CHICAGO BLACK – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -6,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > JEDNODÍLNÉ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/337_jednodilne-plavky-chicago-black.png?65da311c",
+        "https://www.terezietrusinova.com/user/shop/orig/337-2_jednodilne-plavky-chicago-black.jpg?63d68515",
+        "https://www.terezietrusinova.com/user/shop/orig/337-3_jednodilne-plavky-chicago-black.jpg?63d68516",
+        "https://www.terezietrusinova.com/user/shop/orig/337-4_jednodilne-plavky-chicago-black.jpg?63d68516",
+        "https://www.terezietrusinova.com/user/shop/orig/337-6_jednodilne-plavky-chicago-black.jpg?6403944c"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "TOP TRINIDAD ZAFFIRO- horní díl",
+      "description": "TOP TRINIDAD ZAFFIRO- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/340-2_top-trinidad-zaffiro-horni-dil.jpg?63d686f4",
+        "https://www.terezietrusinova.com/user/shop/orig/340_top-trinidad-zaffiro-horni-dil.jpg?63d686f1",
+        "https://www.terezietrusinova.com/user/shop/orig/340-3_top-trinidad-zaffiro-horni-dil.jpg?63d686f4",
+        "https://www.terezietrusinova.com/user/shop/orig/340-4_top-trinidad-zaffiro-horni-dil.jpg?6403938d"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "TOP CAPRI BLOGGER- horní díl",
+      "description": "TOP CAPRI BLOGGER- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > VRCHNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/343-7_top-capri-blogger-horni-dil.jpg?64304897",
+        "https://www.terezietrusinova.com/user/shop/orig/343-1_top-capri-blogger-horni-dil.jpg?65bcffeb",
+        "https://www.terezietrusinova.com/user/shop/orig/343-9_top-capri-blogger-horni-dil.jpg?64304899",
+        "https://www.terezietrusinova.com/user/shop/orig/343-4_top-capri-blogger-horni-dil.jpg?63d68762",
+        "https://www.terezietrusinova.com/user/shop/orig/343-5_top-capri-blogger-horni-dil.jpg?6403a07f"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "KALHOTKY NY BLOGGER- spodní díl",
+      "description": "BOTTOM NY BLOGGER- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -8,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/370-3_kalhotky-ny-blogger-spodni-dil.jpg?63deaabf",
+        "https://www.terezietrusinova.com/user/shop/orig/370-1_kalhotky-ny-blogger-spodni-dil.jpg?63deaabf"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "KALHOTKY ROMA BLACK- spodní díl",
+      "description": "BOTTOM ROMA BLACK- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -6,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/373_kalhotky-roma-black-spodni-dil.jpg?63deae15",
+        "https://www.terezietrusinova.com/user/shop/orig/373-2_kalhotky-roma-black-spodni-dil.jpg?63deae55",
+        "https://www.terezietrusinova.com/user/shop/orig/373-1_kalhotky-roma-black-spodni-dil.jpg?63deae1e"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "KALHOTKY ROMA ZAFFIRO- spodní díl",
+      "description": "BOTTOM ROMA ZAFFIRO- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/376-3_kalhotky-roma-zaffiro-spodni-dil.jpg?63deac59",
+        "https://www.terezietrusinova.com/user/shop/orig/376-1_kalhotky-roma-zaffiro-spodni-dil.jpg?63deb1a0",
+        "https://www.terezietrusinova.com/user/shop/orig/376-2_kalhotky-roma-zaffiro-spodni-dil.jpg?640395fc"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "BOTTOM ROMA JEWEL- spodní díl",
+      "description": "BOTTOM ROMA JEWEL- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/379-4_bottom-roma-jewel-spodni-dil.jpg?63deb2a6",
+        "https://www.terezietrusinova.com/user/shop/orig/379-1_bottom-roma-jewel-spodni-dil.jpg?63deb29d",
+        "https://www.terezietrusinova.com/user/shop/orig/379-2_bottom-roma-jewel-spodni-dil.jpg?64039319"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "BOTTOM ROMA ALIEN- spodní díl",
+      "description": "BOTTOM ROMA ALIEN- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/382-2_bottom-roma-alien-spodni-dil.jpg?63deb243",
+        "https://www.terezietrusinova.com/user/shop/orig/382-1_bottom-roma-alien-spodni-dil.jpg?63deb23b",
+        "https://www.terezietrusinova.com/user/shop/orig/382-3_bottom-roma-alien-spodni-dil.jpg?63e12625"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "KALHOTKY ROMA BLOGGER - spodní díl",
+      "description": "BOTTOM ROMA BLOGGER - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/385-1_kalhotky-roma-blogger-spodni-dil.jpg?63deafca",
+        "https://www.terezietrusinova.com/user/shop/orig/385_kalhotky-roma-blogger-spodni-dil.jpg?63deaf8f"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "BOTTOM TRINIDAD ALIEN- spodní díl",
+      "description": "metaDescription",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/388-1_bottom-trinidad-alien-spodni-dil.jpg?63deb483"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "BOTTOM TRINIDAD JEWEL- spodní díl",
+      "description": "metaDescription",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/391-1_bottom-trinidad-jewel-spodni-dil.jpg?63deb4d2"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "KALHOTKY TRINIDAD BLOGGER- spodní díl",
+      "description": "BOTTOM TRINIDAD BLOGGER- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/394-1_kalhotky-trinidad-blogger-spodni-dil.jpg?63deb569",
+        "https://www.terezietrusinova.com/user/shop/orig/394-3_kalhotky-trinidad-blogger-spodni-dil.jpg?63deb586",
+        "https://www.terezietrusinova.com/user/shop/orig/394-4_kalhotky-trinidad-blogger-spodni-dil.jpg?64039129",
+        "https://www.terezietrusinova.com/user/shop/orig/394-5_kalhotky-trinidad-blogger-spodni-dil.jpg?640391ae"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "KALHOTKY TRINIDAD ZAFFIRO- spodní díl",
+      "description": "BOTTOM TRINIDAD ZAFFIRO- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/397-1_kalhotky-trinidad-zaffiro-spodni-dil.jpg?63deb5fd",
+        "https://www.terezietrusinova.com/user/shop/orig/397-2_kalhotky-trinidad-zaffiro-spodni-dil.jpg?640393a2"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "KALHOTKY TRINIDAD BLACK- spodní díl",
+      "description": "BOTTOM TRINIDAD BLACK- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -5,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/400-1_kalhotky-trinidad-black-spodni-dil.jpg?63deb67a",
+        "https://www.terezietrusinova.com/user/shop/orig/400-2_kalhotky-trinidad-black-spodni-dil.jpg?63deb7cc",
+        "https://www.terezietrusinova.com/user/shop/orig/400-3_kalhotky-trinidad-black-spodni-dil.jpg?63deb7e2"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "KALHOTKY MILANO BLACK- spodní díl",
+      "description": "BOTTOM MILANO BLACK- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -6,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/403-3_kalhotky-milano-black-spodni-dil.jpg?63deb93e",
+        "https://www.terezietrusinova.com/user/shop/orig/403-1_kalhotky-milano-black-spodni-dil.jpg?63deb923",
+        "https://www.terezietrusinova.com/user/shop/orig/403-2_kalhotky-milano-black-spodni-dil.jpg?63deb92e",
+        "https://www.terezietrusinova.com/user/shop/orig/403-4_kalhotky-milano-black-spodni-dil.jpg?63deba09"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "KALHOTKY MILANO BLOGGER- spodní díl",
+      "description": "BOTTOM MILANO BLOGGER- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/406-2_kalhotky-milano-blogger-spodni-dil.jpg?63deba5d"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Dárkový poukaz",
+      "description": "Dárkový poukaz – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 3000,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/442-1_darkovy-poukaz.jpg?675da786",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/442-1_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-2_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-3_darkovy-poukaz.jpg?675da7a0"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Dárkový poukaz",
+      "description": "Dárkový poukaz – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 5000,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/442-3_darkovy-poukaz.jpg?675da7a0",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/442-1_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-2_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-3_darkovy-poukaz.jpg?675da7a0"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Dárkový poukaz",
+      "description": "Dárkový poukaz – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1000,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/442-1_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-2_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-3_darkovy-poukaz.jpg?675da7a0"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Dárkový poukaz",
+      "description": "Dárkový poukaz – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1500,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/442-1_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-2_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-3_darkovy-poukaz.jpg?675da7a0"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Dárkový poukaz",
+      "description": "Dárkový poukaz – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 2000,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "https://www.terezietrusinova.com/user/shop/orig/442-2_darkovy-poukaz.jpg?675da786",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/442-1_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-2_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-3_darkovy-poukaz.jpg?675da7a0"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Dárkový poukaz",
+      "description": "Dárkový poukaz – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 2500,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/442-1_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-2_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-3_darkovy-poukaz.jpg?675da7a0"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Dárkový poukaz",
+      "description": "Dárkový poukaz – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 500,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/442-1_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-2_darkovy-poukaz.jpg?675da786",
+        "https://www.terezietrusinova.com/user/shop/orig/442-3_darkovy-poukaz.jpg?675da7a0"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "B75 TOP PARIS INFLUENCER",
+      "description": "metaDescription",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 71,
+      "title": "B80 ONE PIECES PRAGUE BLUE REBEL",
+      "description": "metaDescription",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 72,
+      "title": "B80 ONE PIECES PRAGUE BOYSCOUT",
+      "description": "metaDescription",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 73,
+      "title": "B80 ONE PIECES PRAGUE COSMOPOLITAN",
+      "description": "metaDescription",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 74,
+      "title": "B80 ONE PIECES PRAGUE INFLUENCER",
+      "description": "metaDescription",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 75,
+      "title": "BAG BLACK AND WHITE",
+      "description": "metaDescription",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 76,
+      "title": "MULES INFLUENCER",
+      "description": "metaDescription",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 77,
+      "title": "MULES ZAFFIRO",
+      "description": "metaDescription",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 78,
+      "title": "SANDALS INFLUENCER",
+      "description": "metaDescription",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 79,
+      "title": "BRACELET TRINIDAD",
+      "description": "BRACELET TRINIDAD – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 2999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/586-2_bracelet-trinidad.jpg?6401cdef"
+      ]
+    },
+    {
+      "id": 80,
+      "title": "EARRINGS GOLD SHELLS",
+      "description": "EARRINGS GOLD SHELLS – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 81,
+      "title": "HAT JASMINE COFFEE",
+      "description": "HAT JASMINE COFFEE – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/628-1_hat-jasmine-coffee.png?6413d62c"
+      ]
+    },
+    {
+      "id": 82,
+      "title": "KALHOTKY CAPRI BLOGGER - spodní díl",
+      "description": "BOTTOM CAPRI BLOGGER - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/631_kalhotky-capri-blogger-spodni-dil.jpg?64039014"
+      ]
+    },
+    {
+      "id": 83,
+      "title": "KALHOTKY CAPRI BLACK - spodní díl",
+      "description": "BOTTOM CAPRI BLACK - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY > SPODNÍ DÍL",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/634-3_kalhotky-capri-black-spodni-dil.jpg?64039368",
+        "https://www.terezietrusinova.com/user/shop/orig/634-1_kalhotky-capri-black-spodni-dil.jpg?64038fbd",
+        "https://www.terezietrusinova.com/user/shop/orig/634_kalhotky-capri-black-spodni-dil.jpg?64038fb3",
+        "https://www.terezietrusinova.com/user/shop/orig/634-2_kalhotky-capri-black-spodni-dil.jpg?64038fca"
+      ]
+    },
+    {
+      "id": 84,
+      "title": "HAT PRAGUE",
+      "description": "HAT PRAGUE – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 85,
+      "title": "KARDIGAN BLACK",
+      "description": "Produkt KARDIGAN BLACK - Terezie Trusinová. Elegantní černý kardigan, který kombinuje styl a pohodlí, ideální pro každou příležitost.",
+      "price": 3999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -11,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/663-8_kardigan-black.jpg?64e10533",
+        "https://www.terezietrusinova.com/user/shop/orig/663-6_kardigan-black.jpg?64e104ff",
+        "https://www.terezietrusinova.com/user/shop/orig/663-3_kardigan-black.jpg?64e104eb",
+        "https://www.terezietrusinova.com/user/shop/orig/663_kardigan-black.jpg?64e104e1",
+        "https://www.terezietrusinova.com/user/shop/orig/663-1_kardigan-black.jpg?64e104e3",
+        "https://www.terezietrusinova.com/user/shop/orig/663-2_kardigan-black.jpg?64e104e6",
+        "https://www.terezietrusinova.com/user/shop/orig/663-4_kardigan-black.jpg?64e104f0",
+        "https://www.terezietrusinova.com/user/shop/orig/663-5_kardigan-black.jpg?64e104f1",
+        "https://www.terezietrusinova.com/user/shop/orig/663-7_kardigan-black.jpg?64e10531"
+      ]
+    },
+    {
+      "id": 86,
+      "title": "SHRUG BLACK ONE SIZE",
+      "description": "tylový černý shrugh v jedné velikosti od Terezie Trusinové. Univerzální doplněk pro váš šatník, ideální pro každou příležitost.",
+      "price": 2399,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -23,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/675_shrug-black-one-size.png?64e0fc7c",
+        "https://www.terezietrusinova.com/user/shop/orig/675-3_shrug-black-one-size.jpg?64e0fbea",
+        "https://www.terezietrusinova.com/user/shop/orig/675_shrug-black-one-size.jpg?64e0fbdd",
+        "https://www.terezietrusinova.com/user/shop/orig/675-1_shrug-black-one-size.jpg?64e0fbe0",
+        "https://www.terezietrusinova.com/user/shop/orig/675-2_shrug-black-one-size.jpg?64e0fbe3",
+        "https://www.terezietrusinova.com/user/shop/orig/675-6_shrug-black-one-size.jpg?654907df",
+        "https://www.terezietrusinova.com/user/shop/orig/675-4_shrug-black-one-size.jpg?64e0fbed"
+      ]
+    },
+    {
+      "id": 87,
+      "title": "ČERNÉ ŠATY JANE",
+      "description": "Stylové černé šaty JANE od značky Terezie Trusinová. Ideální pro elegantní večerní příležitosti, vyrobené z kvalitního materiálu. Kupte nyní",
+      "price": 3399,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/678_cerne-saty-jane.jpg?64e0f4a1",
+        "https://www.terezietrusinova.com/user/shop/orig/678-1_cerne-saty-jane.jpg?64e0f4a3",
+        "https://www.terezietrusinova.com/user/shop/orig/678-2_cerne-saty-jane.jpg?64e0f4a5",
+        "https://www.terezietrusinova.com/user/shop/orig/678-3_cerne-saty-jane.jpg?64e0f4a9",
+        "https://www.terezietrusinova.com/user/shop/orig/678-4_cerne-saty-jane.jpg?64e0f4ab",
+        "https://www.terezietrusinova.com/user/shop/orig/678-6_cerne-saty-jane.jpg?64e0f4ae",
+        "https://www.terezietrusinova.com/user/shop/orig/678-7_cerne-saty-jane.jpg?64e0f4b0"
+      ]
+    },
+    {
+      "id": 88,
+      "title": "ČERNÁ MIKINA JANE",
+      "description": "Objevte ČERNOU MIKINU JANE - elegantní dámskou mikinu, která kombinuje styl a pohodlí pro každodenní nošení. Nakupujte nyní na Terezie Trusinová.",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/690-7_cerna-mikina-jane.jpg?64e0ee87",
+        "https://www.terezietrusinova.com/user/shop/orig/690_cerna-mikina-jane.jpg?64e0ede8",
+        "https://www.terezietrusinova.com/user/shop/orig/690-1_cerna-mikina-jane.jpg?64e0eded",
+        "https://www.terezietrusinova.com/user/shop/orig/690-2_cerna-mikina-jane.jpg?64e0edf0",
+        "https://www.terezietrusinova.com/user/shop/orig/690-3_cerna-mikina-jane.jpg?64e0edf2",
+        "https://www.terezietrusinova.com/user/shop/orig/690-4_cerna-mikina-jane.jpg?64e0ee84",
+        "https://www.terezietrusinova.com/user/shop/orig/690-6_cerna-mikina-jane.jpg?64e0ee86",
+        "https://www.terezietrusinova.com/user/shop/orig/690-5_cerna-mikina-jane.jpg?64e0ee85"
+      ]
+    },
+    {
+      "id": 89,
+      "title": "ČERNÉ KALHOTY CHLOE",
+      "description": "Objevte ČERNÉ KALHOTY CHLOE - dámské kalhoty s perfektním střihem pro každou příležitost. Nakupujte nyní na TerezieTrusinova.com",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/705_cerne-kalhoty-chloe.jpg?64e0ef50",
+        "https://www.terezietrusinova.com/user/shop/orig/705-3_cerne-kalhoty-chloe.jpg?64e0ef9b",
+        "https://www.terezietrusinova.com/user/shop/orig/705-1_cerne-kalhoty-chloe.jpg?64e0ef53",
+        "https://www.terezietrusinova.com/user/shop/orig/705-2_cerne-kalhoty-chloe.jpg?64e0ef98",
+        "https://www.terezietrusinova.com/user/shop/orig/705-4_cerne-kalhoty-chloe.jpg?64e0efa0",
+        "https://www.terezietrusinova.com/user/shop/orig/705-5_cerne-kalhoty-chloe.jpg?64e0f065",
+        "https://www.terezietrusinova.com/user/shop/orig/705-6_cerne-kalhoty-chloe.jpg?64e0f066",
+        "https://www.terezietrusinova.com/user/shop/orig/705-7_cerne-kalhoty-chloe.jpg?64e0f068",
+        "https://www.terezietrusinova.com/user/shop/orig/705-8_cerne-kalhoty-chloe.jpg?64e0f069"
+      ]
+    },
+    {
+      "id": 90,
+      "title": "ČERNÁ SUKNĚ JANE",
+      "description": "Objevte elegantní černou sukni Jane, ideální pro každou příležitost. Vyrobeno z prémiových materiálů pro komfort a styl. Nakupujte nyní na Terezie Trusinová",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/729-7_cerna-sukne-jane.jpg?64e0fed5",
+        "https://www.terezietrusinova.com/user/shop/orig/729-10_cerna-sukne-jane.jpg?654923d1",
+        "https://www.terezietrusinova.com/user/shop/orig/729-5_cerna-sukne-jane.jpg?65bd2844",
+        "https://www.terezietrusinova.com/user/shop/orig/729-3_cerna-sukne-jane.jpg?64e0fe97",
+        "https://www.terezietrusinova.com/user/shop/orig/729_cerna-sukne-jane.jpg?64e0fe82",
+        "https://www.terezietrusinova.com/user/shop/orig/729-1_cerna-sukne-jane.jpg?64e0fe8f",
+        "https://www.terezietrusinova.com/user/shop/orig/729-2_cerna-sukne-jane.jpg?64e0fe93",
+        "https://www.terezietrusinova.com/user/shop/orig/729-4_cerna-sukne-jane.jpg?64e0fe9a",
+        "https://www.terezietrusinova.com/user/shop/orig/729-6_cerna-sukne-jane.jpg?64e0fed4",
+        "https://www.terezietrusinova.com/user/shop/orig/729-8_cerna-sukne-jane.jpg?64e0fed5"
+      ]
+    },
+    {
+      "id": 91,
+      "title": "ČERNÁ SUKNĚ PAOLA",
+      "description": "Objevte černou sukni Paola, ideální pro každodenní styl. Vyrobeno z prémiových materiálů pro komfort a eleganci. Nakupujte nyní na Terezie Trusinová",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -5,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/738_cerna-sukne-paola.jpg?64e0f1f8",
+        "https://www.terezietrusinova.com/user/shop/orig/738-1_cerna-sukne-paola.jpg?64e0f2df",
+        "https://www.terezietrusinova.com/user/shop/orig/738-2_cerna-sukne-paola.jpg?64e0f2e4",
+        "https://www.terezietrusinova.com/user/shop/orig/738-3_cerna-sukne-paola.jpg?64e0f2e5",
+        "https://www.terezietrusinova.com/user/shop/orig/738-4_cerna-sukne-paola.jpg?64e0f2e6",
+        "https://www.terezietrusinova.com/user/shop/orig/738-5_cerna-sukne-paola.jpg?64e4af29"
+      ]
+    },
+    {
+      "id": 92,
+      "title": "ČERNÉ TRIČKO PAOLA",
+      "description": "Černé tričko PAOLA od Terezie Trusinové přináší styl a komfort do vašeho každodenního outfitu. Jednoduché, ale sofistikované, ideální pro každou příležitost",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/750-4_cerne-tricko-paola.jpg?64e10213",
+        "https://www.terezietrusinova.com/user/shop/orig/750-5_cerne-tricko-paola.jpg?64e10215",
+        "https://www.terezietrusinova.com/user/shop/orig/750_cerne-tricko-paola.jpg?64e0fff8",
+        "https://www.terezietrusinova.com/user/shop/orig/750-1_cerne-tricko-paola.jpg?64e0fff9",
+        "https://www.terezietrusinova.com/user/shop/orig/750-2_cerne-tricko-paola.jpg?64e0fffc",
+        "https://www.terezietrusinova.com/user/shop/orig/750-3_cerne-tricko-paola.jpg?64e10007"
+      ]
+    },
+    {
+      "id": 93,
+      "title": "BÍLÉ TRIČKO PAOLA",
+      "description": "Bílé tričko PAOLA od Terezie Trusinové je stylové a univerzální, ideální pro každodenní nošení. Přináší eleganci a pohodlí do vašeho šatníku.",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/762_bile-tricko-paola.jpg?64e25192",
+        "https://www.terezietrusinova.com/user/shop/orig/762-1_bile-tricko-paola.jpg?64e101bf",
+        "https://www.terezietrusinova.com/user/shop/orig/762-3_bile-tricko-paola.jpg?64e101c1",
+        "https://www.terezietrusinova.com/user/shop/orig/762-4_bile-tricko-paola.jpg?64e22e50"
+      ]
+    },
+    {
+      "id": 94,
+      "title": "TOP PAOLA IRIS",
+      "description": "",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/774-3_top-paola-iris.jpg?64e10a56",
+        "https://www.terezietrusinova.com/user/shop/orig/774_top-paola-iris.png?64e10aa4",
+        "https://www.terezietrusinova.com/user/shop/orig/774-1_top-paola-iris.png?64e10aa5"
+      ]
+    },
+    {
+      "id": 95,
+      "title": "ČERNÉ TRIČKO JANE",
+      "description": "Černé tričko JANE od Terezie Trusinové je elegantní a stylové, ideální pro každodenní nošení. Kombinuje komfort s moderním designem",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/798-2_cerne-tricko-jane.jpg?64e10756",
+        "https://www.terezietrusinova.com/user/shop/orig/798-1_cerne-tricko-jane.jpg?64e10755",
+        "https://www.terezietrusinova.com/user/shop/orig/798_cerne-tricko-jane.jpg?64e4b370",
+        "https://www.terezietrusinova.com/user/shop/orig/798-3_cerne-tricko-jane.jpg?64e22e33"
+      ]
+    },
+    {
+      "id": 96,
+      "title": "BÍLÉ TRIČKO JANE",
+      "description": "Bílé tričko JANE od Terezie Trusinové je ideální pro každodenní eleganci. Nabízí pohodlí a styl v jednom, perfektní volba pro každou příležitost.",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/810-7_bile-tricko-jane.jpg?64e4afd6",
+        "https://www.terezietrusinova.com/user/shop/orig/810_bile-tricko-jane.jpg?64e4afdd",
+        "https://www.terezietrusinova.com/user/shop/orig/810-8_bile-tricko-jane.jpg?64e4afd9",
+        "https://www.terezietrusinova.com/user/shop/orig/810-4_bile-tricko-jane.jpg?64e0f8ea",
+        "https://www.terezietrusinova.com/user/shop/orig/810-5_bile-tricko-jane.jpg?64e0f8ef",
+        "https://www.terezietrusinova.com/user/shop/orig/810-6_bile-tricko-jane.jpg?64e0f925"
+      ]
+    },
+    {
+      "id": 97,
+      "title": "TOP JANE IRIS",
+      "description": "Objevte TOP JANE IRIS, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/822-1_top-jane-iris.jpg?64e10940",
+        "https://www.terezietrusinova.com/user/shop/orig/822-2_top-jane-iris.jpg?64e10941",
+        "https://www.terezietrusinova.com/user/shop/orig/822_top-jane-iris.png?64e10acb",
+        "https://www.terezietrusinova.com/user/shop/orig/822-1_top-jane-iris.png?64e10acb"
+      ]
+    },
+    {
+      "id": 98,
+      "title": "ČÉRNÉ TRIČKO EMILY",
+      "description": "Černé tričko EMILY od Terezie Trusinové je stylové a univerzální, ideální pro každodenní nošení. Přináší eleganci a pohodlí do vašeho šatníku.",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/846-2_cerne-tricko-emily.jpg?64e10845",
+        "https://www.terezietrusinova.com/user/shop/orig/846-3_cerne-tricko-emily.jpg?64e4b2e4",
+        "https://www.terezietrusinova.com/user/shop/orig/846_cerne-tricko-emily.jpg?64e10841"
+      ]
+    },
+    {
+      "id": 99,
+      "title": "BÍLÉ TRIČKO EMILY",
+      "description": "Bílé tričko EMILY od Terezie Trusinové spojuje jednoduchost a eleganci. Ideální pro každodenní nošení i speciální příležitosti.",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -7,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/858-2_bile-tricko-emily.jpg?64e10338",
+        "https://www.terezietrusinova.com/user/shop/orig/858_bile-tricko-emily.jpg?64e10277",
+        "https://www.terezietrusinova.com/user/shop/orig/858-1_bile-tricko-emily.jpg?64e102d6",
+        "https://www.terezietrusinova.com/user/shop/orig/858-3_bile-tricko-emily.jpg?64e1033e",
+        "https://www.terezietrusinova.com/user/shop/orig/858-4_bile-tricko-emily.jpg?64e10341",
+        "https://www.terezietrusinova.com/user/shop/orig/858-5_bile-tricko-emily.jpg?64e10684",
+        "https://www.terezietrusinova.com/user/shop/orig/858-6_bile-tricko-emily.jpg?64e10687",
+        "https://www.terezietrusinova.com/user/shop/orig/858-7_bile-tricko-emily.jpg?64e107de",
+        "https://www.terezietrusinova.com/user/shop/orig/858-8_bile-tricko-emily.jpg?64e107df"
+      ]
+    },
+    {
+      "id": 100,
+      "title": "SHORT PAOLA BLACK",
+      "description": "Objevte SHORT PAOLA BLACK, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 549,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/870_short-paola-black.jpg?64e108f0",
+        "https://www.terezietrusinova.com/user/shop/orig/870-1_short-paola-black.jpg?64e108f0"
+      ]
+    },
+    {
+      "id": 101,
+      "title": "SHORT PAOLA OFF WHITE",
+      "description": "Objevte SHORT PAOLA OFF WHITE, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 549,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/882_short-paola-off-white.jpg?64e10c0a",
+        "https://www.terezietrusinova.com/user/shop/orig/882-2_short-paola-off-white.jpg?64e10c0d",
+        "https://www.terezietrusinova.com/user/shop/orig/882-3_short-paola-off-white.jpg?64e10c0e"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "ČERNÉ KALHOTY JANE",
+      "description": "Objevte ČERNÉ KALHOTY JANE, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 749,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -7,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/894-6_cerne-kalhoty-jane.jpg?661162e4",
+        "https://www.terezietrusinova.com/user/shop/orig/894-4_cerne-kalhoty-jane.jpg?64e10a1a",
+        "https://www.terezietrusinova.com/user/shop/orig/894-3_cerne-kalhoty-jane.jpg?64e10a17",
+        "https://www.terezietrusinova.com/user/shop/orig/894_cerne-kalhoty-jane.jpg?64e106a4",
+        "https://www.terezietrusinova.com/user/shop/orig/894-1_cerne-kalhoty-jane.jpg?64e106a5",
+        "https://www.terezietrusinova.com/user/shop/orig/894-2_cerne-kalhoty-jane.jpg?64e106a7",
+        "https://www.terezietrusinova.com/user/shop/orig/894-5_cerne-kalhoty-jane.jpg?64e10a1b"
+      ]
+    },
+    {
+      "id": 103,
+      "title": "PANTS JANE OFF WHITE",
+      "description": "",
+      "price": 749,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/906-2_pants-jane-off-white.jpg?64e10b21",
+        "https://www.terezietrusinova.com/user/shop/orig/906_pants-jane-off-white.jpg?64e10b1f"
+      ]
+    },
+    {
+      "id": 104,
+      "title": "BAG LOVE BLACK",
+      "description": "",
+      "price": 1690,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/918_bag-love-black.jpg?64e0fc32"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "BAG PAOLA BLACK",
+      "description": "",
+      "price": 1890,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/924_bag-paola-black.jpg?64e0f68d",
+        "https://www.terezietrusinova.com/user/shop/orig/924-1_bag-paola-black.jpg?64e10369",
+        "https://www.terezietrusinova.com/user/shop/orig/924-2_bag-paola-black.jpg?64e1036c",
+        "https://www.terezietrusinova.com/user/shop/orig/924-3_bag-paola-black.jpg?64e103c3"
+      ]
+    },
+    {
+      "id": 106,
+      "title": "TAŠKA PAOLA OFF WHITE",
+      "description": "",
+      "price": 1890,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 107,
+      "title": "BAG CHLOE BLACK",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 108,
+      "title": "BAG CHLOE OFF WHITE",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 109,
+      "title": "SKIRT EMILY BLACK",
+      "description": "",
+      "price": 2399,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/939-6_skirt-emily-black.jpg?64e63e7a",
+        "https://www.terezietrusinova.com/user/shop/orig/939_skirt-emily-black.jpg?64e0fd2e",
+        "https://www.terezietrusinova.com/user/shop/orig/939-1_skirt-emily-black.jpg?64e0fd30",
+        "https://www.terezietrusinova.com/user/shop/orig/939-2_skirt-emily-black.jpg?64e0fd32",
+        "https://www.terezietrusinova.com/user/shop/orig/939-5_skirt-emily-black.jpg?64e0fd38",
+        "https://www.terezietrusinova.com/user/shop/orig/939-3_skirt-emily-black.jpg?64e0fd34"
+      ]
+    },
+    {
+      "id": 110,
+      "title": "ČERNÁ MIKINA PAOLA ONE SIZE",
+      "description": "Objevte ČERNOU MIKINU PAOLA ONE SIZE - univerzální dámskou mikinu. Vyrobeno z kvalitních materiálů. Nakupujte nyní na Terezie Trusinová",
+      "price": 2399,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -5,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/954-4_cerna-mikina-paola-one-size.jpg?64e0fa33",
+        "https://www.terezietrusinova.com/user/shop/orig/954_cerna-mikina-paola-one-size.jpg?64e0f979",
+        "https://www.terezietrusinova.com/user/shop/orig/954-1_cerna-mikina-paola-one-size.jpg?64e0fa2e",
+        "https://www.terezietrusinova.com/user/shop/orig/954-2_cerna-mikina-paola-one-size.jpg?64e0fa2f",
+        "https://www.terezietrusinova.com/user/shop/orig/954-3_cerna-mikina-paola-one-size.jpg?64e0fa31",
+        "https://www.terezietrusinova.com/user/shop/orig/954-6_cerna-mikina-paola-one-size.jpg?64e0fb04"
+      ]
+    },
+    {
+      "id": 111,
+      "title": "ČERNÁ MIKINA CHLOE ONE SIZE",
+      "description": "Objevte ČERNOU MIKINU CHLOE ONE SIZE - stylovou a pohodlnou dámskou mikinu ideální pro každodenní nošení. Nakupujte nyní na TerezieTrusinova.com",
+      "price": 2399,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -18,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/957-2_cerna-mikina-chloe-one-size.jpg?64e0eb11",
+        "https://www.terezietrusinova.com/user/shop/orig/957-1_cerna-mikina-chloe-one-size.jpg?64e0e9d4",
+        "https://www.terezietrusinova.com/user/shop/orig/957_cerna-mikina-chloe-one-size.jpg?64e0eab6",
+        "https://www.terezietrusinova.com/user/shop/orig/957-3_cerna-mikina-chloe-one-size.jpg?64e0eb8a",
+        "https://www.terezietrusinova.com/user/shop/orig/957-4_cerna-mikina-chloe-one-size.jpg?64e0eb8d",
+        "https://www.terezietrusinova.com/user/shop/orig/957-5_cerna-mikina-chloe-one-size.jpg?64e0ebd4",
+        "https://www.terezietrusinova.com/user/shop/orig/957-7_cerna-mikina-chloe-one-size.jpg?64e0ecbb",
+        "https://www.terezietrusinova.com/user/shop/orig/957-8_cerna-mikina-chloe-one-size.jpg?64e0ecbc",
+        "https://www.terezietrusinova.com/user/shop/orig/957-10_cerna-mikina-chloe-one-size.jpg?64e4b03e"
+      ]
+    },
+    {
+      "id": 112,
+      "title": "ČERNÁ MIKINA EMILY ONE SIZE",
+      "description": "Objevte ČERNOU MIKINU EMILY ONE SIZE - dámskou mikinu, která kombinuje styl a pohodlí. Nakupujte nyní na TerezieTrusinova.com.",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -68,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/960-6_cerna-mikina-emily-one-size.jpg?65bcfa23",
+        "https://www.terezietrusinova.com/user/shop/orig/960_cerna-mikina-emily-one-size.jpg?64e0ec4b",
+        "https://www.terezietrusinova.com/user/shop/orig/960-3_cerna-mikina-emily-one-size.jpg?64e0ed0c",
+        "https://www.terezietrusinova.com/user/shop/orig/960-1_cerna-mikina-emily-one-size.jpg?64e0ec50",
+        "https://www.terezietrusinova.com/user/shop/orig/960-2_cerna-mikina-emily-one-size.jpg?64e0ec53",
+        "https://www.terezietrusinova.com/user/shop/orig/960-4_cerna-mikina-emily-one-size.jpg?64e0ed0f"
+      ]
+    },
+    {
+      "id": 113,
+      "title": "RUKAVICE LYON OFF WHITE PALCOVÉ",
+      "description": "",
+      "price": 1099,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 114,
+      "title": "RUKAVICE LYON BLACK PALCOVÉ",
+      "description": "",
+      "price": 1099,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 115,
+      "title": "HAT ROMA BLACK",
+      "description": "Objevte HAT ROMA BLACK, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 116,
+      "title": "RUKAVICE ROMA BLACK",
+      "description": "Objevte RUKAVICE ROMA BLACK, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 117,
+      "title": "RUKAVICE BLACK krátké",
+      "description": "",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 118,
+      "title": "RUKAVICE PANNA krátké",
+      "description": "",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 119,
+      "title": "HAT BLACK Audrey",
+      "description": "",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 120,
+      "title": "CAP LYON OFF WHITE",
+      "description": "",
+      "price": 1199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "VÝPRODEJ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 121,
+      "title": "TOP MONACO BLUE REBEL - horní díl",
+      "description": "TOP MONACO BLUE REBEL - horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -6,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1030-3_top-monaco-blue-rebel-horni-dil.jpg?66174962"
+      ]
+    },
+    {
+      "id": 122,
+      "title": "KALHOTKY MONACO BLUE REBEL - spodní díl",
+      "description": "BOTTOM MONACO BLUE REBEL - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 123,
+      "title": "KALHOTKY ROMA BLUE REBEL - spodní díl",
+      "description": "BOTTOM ROMA BLUE REBEL - spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -7,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 124,
+      "title": "TOP MONACO VERSILE- horní díl",
+      "description": "TOP MONACO VERSILE- horní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 1499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1057-1_top-monaco-versile-horni-dil.png?66117926"
+      ]
+    },
+    {
+      "id": 125,
+      "title": "KALHOTKY MONACO VERSILE- spodní díl",
+      "description": "BOTTOM MONACO VERSILE- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1066-1_kalhotky-monaco-versile-spodni-dil.png?66117b98"
+      ]
+    },
+    {
+      "id": 126,
+      "title": "TOP NY VERSILE- horní díl",
+      "description": "",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -5,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1075-1_top-ny-versile-horni-dil.png?66117939"
+      ]
+    },
+    {
+      "id": 127,
+      "title": "KALHOTKY NY VERSILE- spodní díl",
+      "description": "BOTTOM NY VERSILE- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -8,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1087-1_kalhotky-ny-versile-spodni-dil.png?66117bb5"
+      ]
+    },
+    {
+      "id": 128,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1099-1_top-capri-versile-horni-dil.png?66117911"
+      ]
+    },
+    {
+      "id": 129,
+      "title": "KALHOTKY ROMA VERSILE- spodní díl",
+      "description": "BOTTOM ROMA VERSILE- spodní díl – stylový česky design od Terezie Trusinové. Elegance a kvalita pro moderní ženu.",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -6,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1114-1_kalhotky-roma-versile-spodni-dil.png?66117b5b"
+      ]
+    },
+    {
+      "id": 130,
+      "title": "TOP CAPRI LOGO",
+      "description": "",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 131,
+      "title": "BOTTOM ROMA LOGO",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 132,
+      "title": "TOP NY LOGO",
+      "description": "",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 133,
+      "title": "BOTTOM NY LOGO",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 134,
+      "title": "BOTTOM MONACO LOGO - spodní díl",
+      "description": "",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 135,
+      "title": "ČERNÁ SUKNĚ KATERINA",
+      "description": "Objevte černou sukni Katerina, ideální pro moderní ženy. Vyrobeno z prémiových materiálů pro styl a komfort. Nakupujte nyní na Terezie Trusinová",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -8,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1576-1_cerna-sukne-katerina.jpg?661163db",
+        "https://www.terezietrusinova.com/user/shop/orig/1576_cerna-sukne-katerina.jpg?65aa7013"
+      ]
+    },
+    {
+      "id": 136,
+      "title": "ČERNÁ SUKNĚ TEREZIE",
+      "description": "Objevte černou sukni Terezie, ideální pro elegantní příležitosti. Vyrobeno z prémiových materiálů pro luxus a styl. Nakupujte nyní na Terezie Trusinová",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -20,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 137,
+      "title": "JEDNODÍLNÉ PLAVKY MONACO BLACK",
+      "description": "Objevte ONE PIECES MONACO BLACK, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 2999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1582-6_jednodilne-plavky-monaco-black.jpg?66174b45",
+        "https://www.terezietrusinova.com/user/shop/orig/1582-7_jednodilne-plavky-monaco-black.jpg?66174b46",
+        "https://www.terezietrusinova.com/user/shop/orig/1582-4_jednodilne-plavky-monaco-black.jpg?66174b45"
+      ]
+    },
+    {
+      "id": 138,
+      "title": "SKIRT RINNA BLUE REBEL",
+      "description": "",
+      "price": 1890,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -5,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 139,
+      "title": "TOWEL PRINT",
+      "description": "",
+      "price": 1290,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 140,
+      "title": "COSMETIC BAG PRINT",
+      "description": "Objevte COSMETIC BAG PRINT, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 990,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 141,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 142,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 143,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 144,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 145,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 146,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 147,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 148,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 149,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 150,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 151,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 152,
+      "title": "TOP CAPRI PRINT- horní díl",
+      "description": "Objevte TOP CAPRI PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1654-2_top-capri-print-horni-dil.png?66116529",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.jpg?661164dd",
+        "https://www.terezietrusinova.com/user/shop/orig/1654-1_top-capri-print-horni-dil.png?66116528"
+      ]
+    },
+    {
+      "id": 153,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 154,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 155,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 156,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 157,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 158,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 159,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 160,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 161,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 162,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 163,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 164,
+      "title": "TOP CAPRI VERSILE- horní díl",
+      "description": "Objevte TOP CAPRI VERSILE- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1657_top-capri-versile-horni-dil.png?66117a25"
+      ]
+    },
+    {
+      "id": 165,
+      "title": "TWILLY PRINT",
+      "description": "",
+      "price": 690,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 166,
+      "title": "TOP MONACO LOGO",
+      "description": "",
+      "price": 1299,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 167,
+      "title": "KALHOTKY MONACO PRINT- spodní díl",
+      "description": "Objevte BOTTOM MONACO PRINT- spodní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1678_kalhotky-monaco-print-spodni-dil.jpg?6611642b"
+      ]
+    },
+    {
+      "id": 168,
+      "title": "KALHOTKY MONACO PRINT- spodní díl",
+      "description": "Objevte BOTTOM MONACO PRINT- spodní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -13,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1678_kalhotky-monaco-print-spodni-dil.jpg?6611642b"
+      ]
+    },
+    {
+      "id": 169,
+      "title": "KALHOTKY MONACO PRINT- spodní díl",
+      "description": "Objevte BOTTOM MONACO PRINT- spodní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -8,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1678_kalhotky-monaco-print-spodni-dil.jpg?6611642b"
+      ]
+    },
+    {
+      "id": 170,
+      "title": "TOP MONACO PRINT- horní díl",
+      "description": "Objevte TOP MONACO PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -10,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1681-1_top-monaco-print-horni-dil.jpg?66116471",
+        "https://www.terezietrusinova.com/user/shop/orig/1681_top-monaco-print-horni-dil.jpg?66116412"
+      ]
+    },
+    {
+      "id": 171,
+      "title": "TOP MONACO PRINT- horní díl",
+      "description": "Objevte TOP MONACO PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -8,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1681-1_top-monaco-print-horni-dil.jpg?66116471",
+        "https://www.terezietrusinova.com/user/shop/orig/1681_top-monaco-print-horni-dil.jpg?66116412"
+      ]
+    },
+    {
+      "id": 172,
+      "title": "TOP MONACO PRINT- horní díl",
+      "description": "Objevte TOP MONACO PRINT- horní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -7,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1681-1_top-monaco-print-horni-dil.jpg?66116471",
+        "https://www.terezietrusinova.com/user/shop/orig/1681_top-monaco-print-horni-dil.jpg?66116412"
+      ]
+    },
+    {
+      "id": 173,
+      "title": "KALHOTKY NY PRINT- spodní díl",
+      "description": "Objevte BOTTOM NY PRINT- spodní díl, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1684_kalhotky-ny-print-spodni-dil.jpg?66116361"
+      ]
+    },
+    {
+      "id": 174,
+      "title": "EMPTY",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "Skrytá",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 175,
+      "title": "MIKINA EMILY OFF WHITE",
+      "description": "Objevte MIKINU EMILY OFF WHITE - stylovou dámskou mikinu v elegantní off white barvě, ideální pro každodenní nošení. Nakupujte nyní na Terezie Trusinová.",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -25,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1695_mikina-emily-off-white.png?66bd32da"
+      ]
+    },
+    {
+      "id": 176,
+      "title": "ČERNÉ TRIČKO JOSEPHINE",
+      "description": "Stylové černé tričko JOSEPHINE od Terezie Trusinové. Ideální volba pro sofistikovaný a moderní vzhled.",
+      "price": 1590,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -32,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1698-1_cerne-tricko-josephine.jpg?667321a6"
+      ]
+    },
+    {
+      "id": 177,
+      "title": "ČERNÉ TRIČKO JOSEPHINE",
+      "description": "Stylové černé tričko JOSEPHINE od Terezie Trusinové. Ideální volba pro sofistikovaný a moderní vzhled.",
+      "price": 1590,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -43,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1698-1_cerne-tricko-josephine.jpg?667321a6"
+      ]
+    },
+    {
+      "id": 178,
+      "title": "KALHOTY JOSEPHINE ČERNÉ",
+      "description": "Objevte KALHOTY JOSEPHINE BLACK - dámské kalhoty s moderním střihem, ideální pro formální i neformální příležitosti. Nakupujte nyní na TerezieTrusinova.com",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -49,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1701_kalhoty-josephine-cerne.png?66bd2f7a"
+      ]
+    },
+    {
+      "id": 179,
+      "title": "KALHOTY JOSEPHINE ČERNÉ",
+      "description": "Objevte KALHOTY JOSEPHINE BLACK - dámské kalhoty s moderním střihem, ideální pro formální i neformální příležitosti. Nakupujte nyní na TerezieTrusinova.com",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -19,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1701_kalhoty-josephine-cerne.png?66bd2f7a"
+      ]
+    },
+    {
+      "id": 180,
+      "title": "KALHOTY JOSEPHINE ČERNÉ",
+      "description": "Objevte KALHOTY JOSEPHINE BLACK - dámské kalhoty s moderním střihem, ideální pro formální i neformální příležitosti. Nakupujte nyní na TerezieTrusinova.com",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -34,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1701_kalhoty-josephine-cerne.png?66bd2f7a"
+      ]
+    },
+    {
+      "id": 181,
+      "title": "KALHOTY JOSEPHINE ČERNÉ",
+      "description": "Objevte KALHOTY JOSEPHINE BLACK - dámské kalhoty s moderním střihem, ideální pro formální i neformální příležitosti. Nakupujte nyní na TerezieTrusinova.com",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -9,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1701_kalhoty-josephine-cerne.png?66bd2f7a"
+      ]
+    },
+    {
+      "id": 182,
+      "title": "SUKNĚ MARGARET GOLD",
+      "description": "Objevte SUKNI MARGARET ZLATÁ - dámská sukne v zlaté barvě. Zajišťujících eleganci a pohodlí. Nakupujte nyní na Terezie Trusinová",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1704_sukne-margaret-gold.png?66e07233",
+        "https://www.terezietrusinova.com/user/shop/orig/1704_sukne-margaret-gold.jpg?667f0878"
+      ]
+    },
+    {
+      "id": 183,
+      "title": "SUKNĚ MARGARET GOLD",
+      "description": "Objevte SUKNI MARGARET ZLATÁ - dámská sukne v zlaté barvě. Zajišťujících eleganci a pohodlí. Nakupujte nyní na Terezie Trusinová",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1704_sukne-margaret-gold.png?66e07233",
+        "https://www.terezietrusinova.com/user/shop/orig/1704_sukne-margaret-gold.jpg?667f0878"
+      ]
+    },
+    {
+      "id": 184,
+      "title": "SUKNĚ MARGARET RED",
+      "description": "Objevte stylovou červenou sukni Margaret, ideální pro každou příležitost. Vyrobeno z prémiových materiálů pro komfort a dlouhou životnost. Nakupujte nyní",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 185,
+      "title": "SUKNĚ MARGARET RED",
+      "description": "Objevte stylovou červenou sukni Margaret, ideální pro každou příležitost. Vyrobeno z prémiových materiálů pro komfort a dlouhou životnost. Nakupujte nyní",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 186,
+      "title": "SUKNĚ MARGARET DARK BLUE",
+      "description": "Objevte stylovou tmavě modrou sukni Margaret, ideální pro každou příležitost. Vyrobeno z prémiových materiálů pro eleganci a pohodlí. Nakupujte nyní.",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1710_sukne-margaret-dark-blue.png?66bd3062"
+      ]
+    },
+    {
+      "id": 187,
+      "title": "SUKNĚ MARGARET DARK BLUE",
+      "description": "Objevte stylovou tmavě modrou sukni Margaret, ideální pro každou příležitost. Vyrobeno z prémiových materiálů pro eleganci a pohodlí. Nakupujte nyní.",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -5,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1710_sukne-margaret-dark-blue.png?66bd3062"
+      ]
+    },
+    {
+      "id": 188,
+      "title": "TRIČKO MARGARET GOLD",
+      "description": "TRIČKO MARGARET GOLD od Terezie Trusinová - Elegantní dámské tričko ve zlaté barvě Vyrobeno z kvalitního materiálu. Nakupujte nyní",
+      "price": 1490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1713_tricko-margaret-gold.png?66e0750a",
+        "https://www.terezietrusinova.com/user/shop/orig/1713_tricko-margaret-gold.jpg?667f019b"
+      ]
+    },
+    {
+      "id": 189,
+      "title": "TRIČKO MARGARET GOLD",
+      "description": "TRIČKO MARGARET GOLD od Terezie Trusinová - Elegantní dámské tričko ve zlaté barvě Vyrobeno z kvalitního materiálu. Nakupujte nyní",
+      "price": 1490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -7,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1713_tricko-margaret-gold.png?66e0750a",
+        "https://www.terezietrusinova.com/user/shop/orig/1713_tricko-margaret-gold.jpg?667f019b"
+      ]
+    },
+    {
+      "id": 190,
+      "title": "TRIČKO MARGARET DARK BLUE",
+      "description": "Stylové tmavě modré tričko Margaret od Terezie Trusinové. Perfektní kombinace elegance a pohodlí pro každodenní nošení",
+      "price": 1490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1719_tricko-margaret-dark-blue.jpg?66bd3a92"
+      ]
+    },
+    {
+      "id": 191,
+      "title": "TRIČKO MARGARET DARK BLUE",
+      "description": "Stylové tmavě modré tričko Margaret od Terezie Trusinové. Perfektní kombinace elegance a pohodlí pro každodenní nošení",
+      "price": 1490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1719_tricko-margaret-dark-blue.jpg?66bd3a92"
+      ]
+    },
+    {
+      "id": 192,
+      "title": "ŠATY MARGARET DARK BLUE",
+      "description": "Elegantní šaty MARGARET v tmavě modré barvě od značky Terezie Trusinová. Vyrobené z luxusního materiálu, ideální pro večerní akce. Objednejte nyní",
+      "price": 3890,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -8,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1722_saty-margaret-dark-blue.png?66bd3122"
+      ]
+    },
+    {
+      "id": 193,
+      "title": "ŠATY MARGARET DARK BLUE",
+      "description": "Elegantní šaty MARGARET v tmavě modré barvě od značky Terezie Trusinová. Vyrobené z luxusního materiálu, ideální pro večerní akce. Objednejte nyní",
+      "price": 3890,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -18,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1722_saty-margaret-dark-blue.png?66bd3122"
+      ]
+    },
+    {
+      "id": 194,
+      "title": "ZLATÉ ŠATY MARGARET",
+      "description": "Objevte ZLATÉ ŠATY MARGARET, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 3890,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1728-1_zlate-saty-margaret.jpg?66e06e06"
+      ]
+    },
+    {
+      "id": 195,
+      "title": "ZLATÉ ŠATY MARGARET",
+      "description": "Objevte ZLATÉ ŠATY MARGARET, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 3890,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1728-1_zlate-saty-margaret.jpg?66e06e06"
+      ]
+    },
+    {
+      "id": 196,
+      "title": "MIKINA EMILY ZELENÁ ONE SIZE",
+      "description": "Objevte MIKINA EMILY ZELENÁ ONE SIZE, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -14,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1730_mikina-emily-zelena-one-size.png?66e06f07"
+      ]
+    },
+    {
+      "id": 197,
+      "title": "SUKNĚ JANE ZELENÁ",
+      "description": "",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1739_sukne-jane-zelena.png?66e2cf92"
+      ]
+    },
+    {
+      "id": 198,
+      "title": "SUKNĚ JANE ZELENÁ",
+      "description": "",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1739_sukne-jane-zelena.png?66e2cf92"
+      ]
+    },
+    {
+      "id": 199,
+      "title": "SUKNĚ JANE ZELENÁ",
+      "description": "",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1739_sukne-jane-zelena.png?66e2cf92"
+      ]
+    },
+    {
+      "id": 200,
+      "title": "SUKNĚ JANE ZELENÁ",
+      "description": "",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1739_sukne-jane-zelena.png?66e2cf92"
+      ]
+    },
+    {
+      "id": 201,
+      "title": "TRIČKO MARGARET DLOUHÝ RUKÁV DARK BLUE",
+      "description": "Elegantní tmavě modré tričko Margaret s dlouhým rukávem od Terezie Trusinové. Vhodné pro stylový a pohodlný vzhled",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -7,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 202,
+      "title": "TRIČKO MARGARET DLOUHÝ RUKÁV DARK BLUE",
+      "description": "Elegantní tmavě modré tričko Margaret s dlouhým rukávem od Terezie Trusinové. Vhodné pro stylový a pohodlný vzhled",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -6,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 203,
+      "title": "TRIČKO MARGARET DLOUHÝ RUKÁV GOLD",
+      "description": "Objevte TRIČKO MARGARET DLOUHÝ RUKÁV GOLD, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1748_tricko-margaret-dlouhy-rukav-gold.png?66e07430"
+      ]
+    },
+    {
+      "id": 204,
+      "title": "TRIČKO MARGARET DLOUHÝ RUKÁV GOLD",
+      "description": "Objevte TRIČKO MARGARET DLOUHÝ RUKÁV GOLD, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -5,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1748_tricko-margaret-dlouhy-rukav-gold.png?66e07430"
+      ]
+    },
+    {
+      "id": 205,
+      "title": "TOP CHLOE OFF WHITE",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 206,
+      "title": "TOP CHLOE OFF WHITE",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 207,
+      "title": "TOP CHLOE OFF WHITE",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 208,
+      "title": "TOP CHLOE OFF WHITE",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 209,
+      "title": "ČERNÉ TRIČKO CHLOE",
+      "description": "Elegantní a všestranné černé tričko CHLOE od Terezie Trusinové. Perfektní pro každodenní nošení i speciální příležitosti",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 210,
+      "title": "ČERNÉ TRIČKO CHLOE",
+      "description": "Elegantní a všestranné černé tričko CHLOE od Terezie Trusinové. Perfektní pro každodenní nošení i speciální příležitosti",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 211,
+      "title": "ČERNÉ TRIČKO CHLOE",
+      "description": "Elegantní a všestranné černé tričko CHLOE od Terezie Trusinové. Perfektní pro každodenní nošení i speciální příležitosti",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 212,
+      "title": "ČERNÉ TRIČKO CHLOE",
+      "description": "Elegantní a všestranné černé tričko CHLOE od Terezie Trusinové. Perfektní pro každodenní nošení i speciální příležitosti",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 213,
+      "title": "BAG KATERINA BLACK",
+      "description": "Objevte BAG KATERINA BLACK, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1750,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 214,
+      "title": "BAG TEREZIE GREEN",
+      "description": "Objevte BAG TEREZIE GREEN, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1890,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 215,
+      "title": "NÁHRDELNÍK MARGARET GOLD",
+      "description": "Objevte NÁHRDELNÍK MARGARET GOLD, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 590,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 216,
+      "title": "NÁRAMEK MARGARET GOLD",
+      "description": "Objevte NÁRAMEK MARGARET GOLD, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 530,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 217,
+      "title": "NAUŠNICE MARGARET GOLD",
+      "description": "Objevte NAUŠNICE MARGARET GOLD, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 530,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 218,
+      "title": "PÁSEK MARGARET GOLD",
+      "description": "Objevte PÁSEK MARGARET GOLD, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 690,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 219,
+      "title": "NAUŠNICE TEREZIE STRASS",
+      "description": "Objevte NAUŠNICE TEREZIE STRASS, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 4995,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 220,
+      "title": "PRSTÝNEK TEREZIE STRASS",
+      "description": "Objevte PRSTÝNEK TEREZIE STRASS, dokonalou kombinaci stylu a pohodlí. Ideální pro moderní ženy, které oceňují eleganci a funkčnost.",
+      "price": 1295,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DOPLŇKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 221,
+      "title": "PRUHOVANÉ TRIČKO EWA",
+      "description": "Objevte PRUHOVANÉ TRIČKO EWA od Terezie Trusinové – moderní a stylový kousek, který kombinuje eleganci s pohodlím pro každodenní nošení.",
+      "price": 2399,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1811-1_pruhovane-tricko-ewa.jpg?66bd2beb",
+        "https://www.terezietrusinova.com/user/shop/orig/1811-2_pruhovane-tricko-ewa.jpg?66bd2c15"
+      ]
+    },
+    {
+      "id": 222,
+      "title": "PRUHOVANÉ TRIČKO EWA",
+      "description": "Objevte PRUHOVANÉ TRIČKO EWA od Terezie Trusinové – moderní a stylový kousek, který kombinuje eleganci s pohodlím pro každodenní nošení.",
+      "price": 2399,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1811-1_pruhovane-tricko-ewa.jpg?66bd2beb",
+        "https://www.terezietrusinova.com/user/shop/orig/1811-2_pruhovane-tricko-ewa.jpg?66bd2c15"
+      ]
+    },
+    {
+      "id": 223,
+      "title": "PRUHOVANÉ TRIČKO EWA",
+      "description": "Objevte PRUHOVANÉ TRIČKO EWA od Terezie Trusinové – moderní a stylový kousek, který kombinuje eleganci s pohodlím pro každodenní nošení.",
+      "price": 2399,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1811-1_pruhovane-tricko-ewa.jpg?66bd2beb",
+        "https://www.terezietrusinova.com/user/shop/orig/1811-2_pruhovane-tricko-ewa.jpg?66bd2c15"
+      ]
+    },
+    {
+      "id": 224,
+      "title": "SUKNĚ PAOLA BLACK/PLISE",
+      "description": "Objevte elegantní černou plisovanou sukni Paola. Ideální pro každou příležitost, kombinující styl a pohodlí. Nakupujte nyní na Terezie Trusinová",
+      "price": 2679,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1817-1_sukne-paola-black-plise.jpg?66bd2d84"
+      ]
+    },
+    {
+      "id": 225,
+      "title": "SUKNĚ PAOLA BLACK/PLISE",
+      "description": "Objevte elegantní černou plisovanou sukni Paola. Ideální pro každou příležitost, kombinující styl a pohodlí. Nakupujte nyní na Terezie Trusinová",
+      "price": 2679,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1817-1_sukne-paola-black-plise.jpg?66bd2d84"
+      ]
+    },
+    {
+      "id": 226,
+      "title": "SUKNĚ PAOLA BLACK/PLISE",
+      "description": "Objevte elegantní černou plisovanou sukni Paola. Ideální pro každou příležitost, kombinující styl a pohodlí. Nakupujte nyní na Terezie Trusinová",
+      "price": 2679,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1817-1_sukne-paola-black-plise.jpg?66bd2d84"
+      ]
+    },
+    {
+      "id": 227,
+      "title": "ČERNÉ ŠATY MARIA",
+      "description": "Luxusní černé šaty MARIA od značky Terezie Trusinová, ideální pro každou příležitost. Vyrobené z kvalitního materiálu, který dodává sofistikovaný a elegantní vzhled. Objednejte",
+      "price": 3799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1820-1_cerne-saty-maria.jpg?66bd2d26",
+        "https://www.terezietrusinova.com/user/shop/orig/1820_cerne-saty-maria.jpg?66bd2d25"
+      ]
+    },
+    {
+      "id": 228,
+      "title": "ČERNÉ ŠATY MARIA",
+      "description": "Luxusní černé šaty MARIA od značky Terezie Trusinová, ideální pro každou příležitost. Vyrobené z kvalitního materiálu, který dodává sofistikovaný a elegantní vzhled. Objednejte",
+      "price": 3799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1820-1_cerne-saty-maria.jpg?66bd2d26",
+        "https://www.terezietrusinova.com/user/shop/orig/1820_cerne-saty-maria.jpg?66bd2d25"
+      ]
+    },
+    {
+      "id": 229,
+      "title": "ČERNÉ ŠATY MARIA",
+      "description": "Luxusní černé šaty MARIA od značky Terezie Trusinová, ideální pro každou příležitost. Vyrobené z kvalitního materiálu, který dodává sofistikovaný a elegantní vzhled. Objednejte",
+      "price": 3799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1820-1_cerne-saty-maria.jpg?66bd2d26",
+        "https://www.terezietrusinova.com/user/shop/orig/1820_cerne-saty-maria.jpg?66bd2d25"
+      ]
+    },
+    {
+      "id": 230,
+      "title": "ČERNÁ MIKINA MARIA",
+      "description": "Objevte ČERNOU MIKINU MARIA - stylovou a pohodlnou dámskou mikinu, ideální pro každodenní nošení. Nakupujte nyní na Terezie Trusinová.",
+      "price": 2949,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1823-1_cerna-mikina-maria.jpg?66bd2e86",
+        "https://www.terezietrusinova.com/user/shop/orig/1823_cerna-mikina-maria.jpg?66bd2e86"
+      ]
+    },
+    {
+      "id": 231,
+      "title": "ČERNÁ MIKINA MARIA",
+      "description": "Objevte ČERNOU MIKINU MARIA - stylovou a pohodlnou dámskou mikinu, ideální pro každodenní nošení. Nakupujte nyní na Terezie Trusinová.",
+      "price": 2949,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1823-1_cerna-mikina-maria.jpg?66bd2e86",
+        "https://www.terezietrusinova.com/user/shop/orig/1823_cerna-mikina-maria.jpg?66bd2e86"
+      ]
+    },
+    {
+      "id": 232,
+      "title": "ČERNÁ MIKINA MARIA",
+      "description": "Objevte ČERNOU MIKINU MARIA - stylovou a pohodlnou dámskou mikinu, ideální pro každodenní nošení. Nakupujte nyní na Terezie Trusinová.",
+      "price": 2949,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1823-1_cerna-mikina-maria.jpg?66bd2e86",
+        "https://www.terezietrusinova.com/user/shop/orig/1823_cerna-mikina-maria.jpg?66bd2e86"
+      ]
+    },
+    {
+      "id": 233,
+      "title": "ZELENÝ KARDIGAN",
+      "description": "",
+      "price": 3999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1826_zeleny-kardigan.png?66e2cea7",
+        "https://www.terezietrusinova.com/user/shop/orig/1826-1_zeleny-kardigan.jpg?66e2ce4d"
+      ]
+    },
+    {
+      "id": 234,
+      "title": "ZELENÝ KARDIGAN",
+      "description": "",
+      "price": 3999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1826_zeleny-kardigan.png?66e2cea7",
+        "https://www.terezietrusinova.com/user/shop/orig/1826-1_zeleny-kardigan.jpg?66e2ce4d"
+      ]
+    },
+    {
+      "id": 235,
+      "title": "ZELENÝ KARDIGAN",
+      "description": "",
+      "price": 3999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1826_zeleny-kardigan.png?66e2cea7",
+        "https://www.terezietrusinova.com/user/shop/orig/1826-1_zeleny-kardigan.jpg?66e2ce4d"
+      ]
+    },
+    {
+      "id": 236,
+      "title": "ZELENÝ KARDIGAN",
+      "description": "",
+      "price": 3999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1826_zeleny-kardigan.png?66e2cea7",
+        "https://www.terezietrusinova.com/user/shop/orig/1826-1_zeleny-kardigan.jpg?66e2ce4d"
+      ]
+    },
+    {
+      "id": 237,
+      "title": "KALHOTY JANE BLUE",
+      "description": "",
+      "price": 3640,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1829-1_kalhoty-jane-blue.jpg?66e2d0ae",
+        "https://www.terezietrusinova.com/user/shop/orig/1829-2_kalhoty-jane-blue.jpg?66e2d146",
+        "https://www.terezietrusinova.com/user/shop/orig/1829-3_kalhoty-jane-blue.jpg?66e2d18c"
+      ]
+    },
+    {
+      "id": 238,
+      "title": "KALHOTY JANE BLUE",
+      "description": "",
+      "price": 3640,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1829-1_kalhoty-jane-blue.jpg?66e2d0ae",
+        "https://www.terezietrusinova.com/user/shop/orig/1829-2_kalhoty-jane-blue.jpg?66e2d146",
+        "https://www.terezietrusinova.com/user/shop/orig/1829-3_kalhoty-jane-blue.jpg?66e2d18c"
+      ]
+    },
+    {
+      "id": 239,
+      "title": "KALHOTY JANE BLUE",
+      "description": "",
+      "price": 3640,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1829-1_kalhoty-jane-blue.jpg?66e2d0ae",
+        "https://www.terezietrusinova.com/user/shop/orig/1829-2_kalhoty-jane-blue.jpg?66e2d146",
+        "https://www.terezietrusinova.com/user/shop/orig/1829-3_kalhoty-jane-blue.jpg?66e2d18c"
+      ]
+    },
+    {
+      "id": 240,
+      "title": "KALHOTY JANE BLUE",
+      "description": "",
+      "price": 3640,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1829-1_kalhoty-jane-blue.jpg?66e2d0ae",
+        "https://www.terezietrusinova.com/user/shop/orig/1829-2_kalhoty-jane-blue.jpg?66e2d146",
+        "https://www.terezietrusinova.com/user/shop/orig/1829-3_kalhoty-jane-blue.jpg?66e2d18c"
+      ]
+    },
+    {
+      "id": 241,
+      "title": "PRUHOVANÝ SVETR",
+      "description": "",
+      "price": 2699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1832-3_pruhovany-svetr.jpg?66e2d405",
+        "https://www.terezietrusinova.com/user/shop/orig/1832-1_pruhovany-svetr.jpg?66e2d297",
+        "https://www.terezietrusinova.com/user/shop/orig/1832_pruhovany-svetr.jpg?66e2d297"
+      ]
+    },
+    {
+      "id": 242,
+      "title": "PRUHOVANÝ SVETR",
+      "description": "",
+      "price": 2699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1832-3_pruhovany-svetr.jpg?66e2d405",
+        "https://www.terezietrusinova.com/user/shop/orig/1832-1_pruhovany-svetr.jpg?66e2d297",
+        "https://www.terezietrusinova.com/user/shop/orig/1832_pruhovany-svetr.jpg?66e2d297"
+      ]
+    },
+    {
+      "id": 243,
+      "title": "PRUHOVANÝ SVETR",
+      "description": "",
+      "price": 2699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "Terezie Trusinová",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1832-3_pruhovany-svetr.jpg?66e2d405",
+        "https://www.terezietrusinova.com/user/shop/orig/1832-1_pruhovany-svetr.jpg?66e2d297",
+        "https://www.terezietrusinova.com/user/shop/orig/1832_pruhovany-svetr.jpg?66e2d297"
+      ]
+    },
+    {
+      "id": 244,
+      "title": "DÁRKOVÝ POUKAZ",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 245,
+      "title": "DÁRKOVÝ POUKAZ",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 246,
+      "title": "DÁRKOVÝ POUKAZ",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 247,
+      "title": "TRIČKO JOSEFINE CAMEL",
+      "description": "",
+      "price": 1590,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -13,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1842-3_tricko-josefine-camel.jpg?67927b1b"
+      ]
+    },
+    {
+      "id": 248,
+      "title": "TRIČKO JOSEFINE CAMEL",
+      "description": "",
+      "price": 1590,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -17,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1842-3_tricko-josefine-camel.jpg?67927b1b"
+      ]
+    },
+    {
+      "id": 249,
+      "title": "TRIČKO JOSEFINE OFF WHITE",
+      "description": "",
+      "price": 1590,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 250,
+      "title": "TRIČKO JOSEFINE OFF WHITE",
+      "description": "",
+      "price": 1590,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -7,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 251,
+      "title": "KALHOTY JOSEFINE CAMEL",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -14,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 252,
+      "title": "KALHOTY JOSEFINE CAMEL",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -13,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 253,
+      "title": "SUKNĚ TEREZIE CAMEL",
+      "description": "",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 254,
+      "title": "SUKNĚ TEREZIE CAMEL",
+      "description": "",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -9,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 255,
+      "title": "SKIRT JOSEFINE CAMEL",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 256,
+      "title": "SKIRT JOSEFINE CAMEL",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 257,
+      "title": "SKIRT JOSEFINE CAMEL",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 258,
+      "title": "SKIRT JOSEFINE CAMEL",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 259,
+      "title": "SKIRT JOSEFINE BLACK",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 260,
+      "title": "SKIRT JOSEFINE BLACK",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 261,
+      "title": "SKIRT JOSEFINE BLACK",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 262,
+      "title": "SKIRT JOSEFINE BLACK",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 263,
+      "title": "JACKET JANE CAMEL PRINT",
+      "description": "",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1860_jacket-jane-camel-print.jpg?67b20661"
+      ]
+    },
+    {
+      "id": 264,
+      "title": "JACKET JANE CAMEL PRINT",
+      "description": "",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1860_jacket-jane-camel-print.jpg?67b20661"
+      ]
+    },
+    {
+      "id": 265,
+      "title": "JACKET JANE CAMEL PRINT",
+      "description": "",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1860_jacket-jane-camel-print.jpg?67b20661"
+      ]
+    },
+    {
+      "id": 266,
+      "title": "JACKET JANE CAMEL PRINT",
+      "description": "",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1860_jacket-jane-camel-print.jpg?67b20661"
+      ]
+    },
+    {
+      "id": 267,
+      "title": "JACKET JANE CAMEL PRINT",
+      "description": "",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1860_jacket-jane-camel-print.jpg?67b20661"
+      ]
+    },
+    {
+      "id": 268,
+      "title": "JACKET JANE BEIGE PRINT",
+      "description": "",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1866-1_jacket-jane-beige-print.jpg?67b205bd"
+      ]
+    },
+    {
+      "id": 269,
+      "title": "JACKET JANE BEIGE PRINT",
+      "description": "",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1866-1_jacket-jane-beige-print.jpg?67b205bd"
+      ]
+    },
+    {
+      "id": 270,
+      "title": "JACKET JANE BEIGE PRINT",
+      "description": "",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1866-1_jacket-jane-beige-print.jpg?67b205bd"
+      ]
+    },
+    {
+      "id": 271,
+      "title": "JACKET JANE BEIGE PRINT",
+      "description": "",
+      "price": 2899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1866-1_jacket-jane-beige-print.jpg?67b205bd"
+      ]
+    },
+    {
+      "id": 272,
+      "title": "SUKNĚ JANE BEIGE PRINT",
+      "description": "",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 273,
+      "title": "SUKNĚ JANE BEIGE PRINT",
+      "description": "",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 274,
+      "title": "SUKNĚ JANE BEIGE PRINT",
+      "description": "",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 275,
+      "title": "SUKNĚ JANE BEIGE PRINT",
+      "description": "",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 276,
+      "title": "SUKNĚ JANE BEIGE PRINT",
+      "description": "",
+      "price": 2499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 277,
+      "title": "PLÁŠŤ JOSEFINE CAMEL",
+      "description": "PRODUKT TRENCH COAT JOSEFINA CAMEL",
+      "price": 5790,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 278,
+      "title": "PLÁŠŤ JOSEFINE ČERNÝ",
+      "description": "",
+      "price": 5790,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 279,
+      "title": "PALETO JOSEFINE CAMEL",
+      "description": "",
+      "price": 4390,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1878-1_paleto-josefine-camel.jpg?67b200fd"
+      ]
+    },
+    {
+      "id": 280,
+      "title": "PALETO JOSEFINE ČERNÉ",
+      "description": "",
+      "price": 4390,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 281,
+      "title": "KALHOTY JOSEFINE CAMEL PRINT",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1884_kalhoty-josefine-camel-print.jpg?67b2074f",
+        "https://www.terezietrusinova.com/user/shop/orig/1884-1_kalhoty-josefine-camel-print.jpg?67b20751"
+      ]
+    },
+    {
+      "id": 282,
+      "title": "KALHOTY JOSEFINE CAMEL PRINT",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1884_kalhoty-josefine-camel-print.jpg?67b2074f",
+        "https://www.terezietrusinova.com/user/shop/orig/1884-1_kalhoty-josefine-camel-print.jpg?67b20751"
+      ]
+    },
+    {
+      "id": 283,
+      "title": "KALHOTY JOSEFINE CAMEL PRINT",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1884_kalhoty-josefine-camel-print.jpg?67b2074f",
+        "https://www.terezietrusinova.com/user/shop/orig/1884-1_kalhoty-josefine-camel-print.jpg?67b20751"
+      ]
+    },
+    {
+      "id": 284,
+      "title": "KALHOTY JOSEFINE CAMEL PRINT",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1884_kalhoty-josefine-camel-print.jpg?67b2074f",
+        "https://www.terezietrusinova.com/user/shop/orig/1884-1_kalhoty-josefine-camel-print.jpg?67b20751"
+      ]
+    },
+    {
+      "id": 285,
+      "title": "KALHOTY JOSEFINE CAMEL PRINT",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1884_kalhoty-josefine-camel-print.jpg?67b2074f",
+        "https://www.terezietrusinova.com/user/shop/orig/1884-1_kalhoty-josefine-camel-print.jpg?67b20751"
+      ]
+    },
+    {
+      "id": 286,
+      "title": "KALHOTY JOSEFINE BEIGE PRINT",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 287,
+      "title": "KALHOTY JOSEFINE BEIGE PRINT",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 288,
+      "title": "KALHOTY JOSEFINE BEIGE PRINT",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 289,
+      "title": "KALHOTY JOSEFINE BEIGE PRINT",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 290,
+      "title": "KALHOTY JOSEFINE BEIGE PRINT",
+      "description": "",
+      "price": 2599,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ OBLEČENÍ",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 291,
+      "title": "BAG JOSEFINE BLACK",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 292,
+      "title": "BAG JOSEFINE CAMEL",
+      "description": "",
+      "price": 0,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 293,
+      "title": "TOP NAPOLI IRELAND - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 294,
+      "title": "TOP NAPOLI IRELAND - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 295,
+      "title": "TOP NAPOLI IRELAND - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 296,
+      "title": "TOP NAPOLI IRELAND - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 297,
+      "title": "TOP NAPOLI IRELAND - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 298,
+      "title": "KALHOTKY PARIS IRELAND - spodní díl",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 299,
+      "title": "KALHOTKY PARIS IRELAND - spodní díl",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 300,
+      "title": "KALHOTKY MONACO IRELAND - spodní díl",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 301,
+      "title": "KALHOTKY NY IRELAND - spodní díl",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -6,
+      "brand": "",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 302,
+      "title": "TOP MONACO PRINT - horní díl",
+      "description": "",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 303,
+      "title": "TOP MONACO PRINT - horní díl",
+      "description": "",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 304,
+      "title": "TOP MONACO PRINT - horní díl",
+      "description": "",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "DÁMSKÉ PLAVKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 305,
+      "title": "TOP NAPOLI PRINT - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 306,
+      "title": "KALHOTKY MONACO PRINT - spodní díl",
+      "description": "",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 307,
+      "title": "KALHOTKY MONACO PRINT - spodní díl",
+      "description": "",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 308,
+      "title": "KALHOTKY MONACO PRINT - spodní díl",
+      "description": "",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 309,
+      "title": "JEDNODÍLNÉ PLAVKY FLORENCIE PRINT",
+      "description": "",
+      "price": 2699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 310,
+      "title": "JEDNODÍLNÉ PLAVKY FLORENCIE PRINT",
+      "description": "",
+      "price": 2699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 311,
+      "title": "TOP NAPOLI LEMON - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1941-1_top-napoli-lemon-horni-dil.jpg?67b20b4e"
+      ]
+    },
+    {
+      "id": 312,
+      "title": "TOP NAPOLI LEMON - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1941-1_top-napoli-lemon-horni-dil.jpg?67b20b4e"
+      ]
+    },
+    {
+      "id": 313,
+      "title": "TOP NAPOLI LEMON - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1941-1_top-napoli-lemon-horni-dil.jpg?67b20b4e"
+      ]
+    },
+    {
+      "id": 314,
+      "title": "TOP NAPOLI LEMON - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1941-1_top-napoli-lemon-horni-dil.jpg?67b20b4e"
+      ]
+    },
+    {
+      "id": 315,
+      "title": "TOP SANTA MONICA LEMON - horní díl",
+      "description": "",
+      "price": 1499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 316,
+      "title": "TOP SANTA MONICA LEMON - horní díl",
+      "description": "",
+      "price": 1499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -4,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 317,
+      "title": "TOP SANTA MONICA LEMON - horní díl",
+      "description": "",
+      "price": 1499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 318,
+      "title": "TOP SANTA MONICA LEMON - horní díl",
+      "description": "",
+      "price": 1499,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 319,
+      "title": "KALHOTKY NAPOLI LEMON -spodní díl",
+      "description": "",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1947_kalhotky-napoli-lemon-spodni-dil.jpg?67b20aa4"
+      ]
+    },
+    {
+      "id": 320,
+      "title": "KALHOTKY NAPOLI LEMON -spodní díl",
+      "description": "",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -3,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1947_kalhotky-napoli-lemon-spodni-dil.jpg?67b20aa4"
+      ]
+    },
+    {
+      "id": 321,
+      "title": "KALHOTKY NAPOLI LEMON -spodní díl",
+      "description": "",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1947_kalhotky-napoli-lemon-spodni-dil.jpg?67b20aa4"
+      ]
+    },
+    {
+      "id": 322,
+      "title": "KALHOTKY NAPOLI LEMON -spodní díl",
+      "description": "",
+      "price": 999,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1947_kalhotky-napoli-lemon-spodni-dil.jpg?67b20aa4"
+      ]
+    },
+    {
+      "id": 323,
+      "title": "KALHOTKY SANTA MONICA LEMON - spodní díl",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 324,
+      "title": "KALHOTKY SANTA MONICA LEMON - spodní díl",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 325,
+      "title": "KALHOTKY SANTA MONICA LEMON - spodní díl",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 326,
+      "title": "TOP NAPOLI INFLUENCER - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 327,
+      "title": "TOP NAPOLI INFLUENCER - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 328,
+      "title": "TOP NAPOLI INFLUENCER - horní díl",
+      "description": "",
+      "price": 2199,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 329,
+      "title": "TOP NY INFLUENCER - horní díl",
+      "description": "",
+      "price": 1699,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 330,
+      "title": "KALHOTKY PARIS INFLUENCER - spodní díl",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 331,
+      "title": "KALHOTKY PARIS INFLUENCER - spodní díl",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 332,
+      "title": "KALHOTKY NY INFLUENCER - spodní díl",
+      "description": "",
+      "price": 899,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": []
+    },
+    {
+      "id": 333,
+      "title": "SUKNĚ TEREZIE OFF WHITE",
+      "description": "",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1971-1_sukne-terezie-off-white.jpg?67d4339a"
+      ]
+    },
+    {
+      "id": 334,
+      "title": "SUKNĚ TEREZIE OFF WHITE",
+      "description": "",
+      "price": 2490,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -2,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1971-1_sukne-terezie-off-white.jpg?67d4339a"
+      ]
+    },
+    {
+      "id": 335,
+      "title": "TÍLKO TEREZIE OFF WHITE",
+      "description": "",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1974_image-3-13-25-at-5-15-pm.jpg?67d350b1",
+        "https://www.terezietrusinova.com/user/shop/orig/1974-1_image-3-13-25-at-5-16-pm.jpg?67d350b1",
+        "https://www.terezietrusinova.com/user/shop/orig/1974-2_image-3-13-25-at-5-16-pm.jpg?67d350b1"
+      ]
+    },
+    {
+      "id": 336,
+      "title": "TÍLKO TEREZIE OFF WHITE",
+      "description": "",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1974_image-3-13-25-at-5-15-pm.jpg?67d350b1",
+        "https://www.terezietrusinova.com/user/shop/orig/1974-1_image-3-13-25-at-5-16-pm.jpg?67d350b1",
+        "https://www.terezietrusinova.com/user/shop/orig/1974-2_image-3-13-25-at-5-16-pm.jpg?67d350b1"
+      ]
+    },
+    {
+      "id": 337,
+      "title": "TÍLKO TEREZIE BLACK",
+      "description": "",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": 0,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1977-3_image-3-13-25-at-5-37-pm.jpg?67d3509c",
+        "https://www.terezietrusinova.com/user/shop/orig/1977-1_image-3-13-25-at-5-38-pm.jpg?67d3509c",
+        "https://www.terezietrusinova.com/user/shop/orig/1977-2_image-3-13-25-at-5-38-pm.jpg?67d3509c"
+      ]
+    },
+    {
+      "id": 338,
+      "title": "TÍLKO TEREZIE BLACK",
+      "description": "",
+      "price": 799,
+      "discountPercentage": 0.0,
+      "rating": null,
+      "stock": -1,
+      "brand": "",
+      "category": "NOVINKY",
+      "thumbnail": "",
+      "images": [
+        "https://www.terezietrusinova.com/user/shop/orig/1977-3_image-3-13-25-at-5-37-pm.jpg?67d3509c",
+        "https://www.terezietrusinova.com/user/shop/orig/1977-1_image-3-13-25-at-5-38-pm.jpg?67d3509c",
+        "https://www.terezietrusinova.com/user/shop/orig/1977-2_image-3-13-25-at-5-38-pm.jpg?67d3509c"
+      ]
+    }
+  ],
+  "total": 338,
+  "skip": 0,
+  "limit": 338
+}
